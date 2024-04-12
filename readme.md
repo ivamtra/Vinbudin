@@ -4,4 +4,9 @@ Hér eru allar áfengar vörur sem fáanlegar eru úr vínbúðinni flokkaðar o
 
 
 TODO:
+
 Tengja við vivino
+
+Plotta vivino score og einingaverð
+
+Bestun
