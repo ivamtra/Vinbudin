@@ -1,0 +1,319 @@
+name,price,ISK_Per_ML_Ethanol,alcoholPercentage,volume_ML
+Farfalla Spumante Bianco Demi Sec,1390,0.20592592592592593,9.0,750
+Farfalla Spumante Rosato Demi Sec,1390,0.20592592592592593,9.0,750
+Platino Pink Moscato,1098,0.20914285714285713,7.0,750
+Delapierre Etiqueta Negra Seco,1899,0.22017391304347825,11.5,750
+Jaume Serra Semi Seco,1989,0.2306086956521739,11.5,750
+Jaume Serra Brut Nature Traditional Method,1989,0.2306086956521739,11.5,750
+Jaume Serra Brut,1989,0.2306086956521739,11.5,750
+Delapierre Etiqueta Negra Brut,1999,0.23176811594202898,11.5,750
+Jaume Serra Bouquet Brut,2019,0.23408695652173914,11.5,750
+Jaume Serra Rosado Brut,2019,0.23408695652173914,11.5,750
+Jaume Serra Organic Brut,2019,0.23408695652173914,11.5,750
+Kirkland Asolo Prosecco,1963,0.23793939393939395,11.0,750
+Casalforte Prosecco Extra Dry,1998,0.2421818181818182,11.0,750
+Canti Prosecco Millesimato Extra Dry,1998,0.2421818181818182,11.0,750
+Jaume Serra Vintage Brut Nature Reserva,2099,0.2433623188405797,11.5,750
+Henkell Blanc de Blancs Dry Sec,2161,0.25055072463768113,11.5,750
+Veuve du Vernay Ice Rose Demi Sec,2099,0.25442424242424244,11.0,750
+Veuve du Vernay Ice Demi Sec,2099,0.25442424242424244,11.0,750
+Jaume Serra Brut Nature,1099,0.25484057971014495,11.5,375
+Martini Prosecco,2199,0.2549565217391304,11.5,750
+Codorniu Clasico Rosado Brut,2299,0.2554444444444444,12.0,750
+Blue Nun Sparkling Rose,2148,0.26036363636363635,11.0,750
+Tesouro Da Se Bruto,2381,0.26455555555555554,12.0,750
+Nani Prosecco Vegan Organic extra dry,2187,0.2650909090909091,11.0,750
+Freixenet Organic Brut Metodo Tradicional,2390,0.26555555555555554,12.0,750
+Codorniu Clasico Semi Sec,2299,0.26655072463768115,11.5,750
+Jacob's Creek Sparkling Rose,2299,0.26655072463768115,11.5,750
+Neleman Brut Organic,2299,0.26655072463768115,11.5,750
+Jacqueline Brut Blanc de Blancs,2299,0.26655072463768115,11.5,750
+Segura Viudas Brut Reserva,2399,0.26655555555555555,12.0,750
+Jaume Serra Brut Nature Reserva,4599,0.26660869565217393,11.5,1500
+Maschio Prosecco Treviso Extra Dry,2260,0.2739393939393939,11.0,750
+Pierre Ponnelle Brut Chardonnay Prestige Methode Traditionnelle,2490,0.27666666666666667,12.0,750
+Freixenet Cordon Negro Seco,2390,0.27710144927536234,11.5,750
+Freixenet Gran Seleccion Cordon Negro Brut,2390,0.27710144927536234,11.5,750
+Jaume Serra Brut Nature,639,0.2778260869565217,11.5,200
+Voga Prosecco Rose,2296,0.27830303030303033,11.0,750
+JP. Chenet Ice Edition,2299,0.2786666666666667,11.0,750
+Piccini Prosecco Extra Dry,2299,0.2786666666666667,11.0,750
+JP. Chenet Ice Edition,4599,0.2787272727272727,11.0,1500
+Canti Asti Liberty Dolce,1698,0.283,8.0,750
+Henkell Blanc de Blancs,655,0.2847826086956522,11.5,200
+Amaluna Brut Traditional Method,2699,0.28789333333333333,12.5,750
+Ramiro II Brut,2489,0.28857971014492756,11.5,750
+Santero Prosecco,2490,0.288695652173913,11.5,750
+Bresset & Morel Blanc de Blancs Brut,2599,0.2887777777777778,12.0,750
+Mionetto Prosecco Rose Millesimato,2390,0.2896969696969697,11.0,750
+La Gioiosa Rose Brut Prosecco Millesimtato,2390,0.2896969696969697,11.0,750
+Mionetto Prosecco Treviso Brut,2390,0.2896969696969697,11.0,750
+La Gioiosa Brut Prosecco Treviso,2390,0.2896969696969697,11.0,750
+Casalforte Prosecco Extra Dry,1198,0.2904242424242424,11.0,375
+Krone Night Nectar Demi Sec,2397,0.29054545454545455,11.0,750
+La Marca Prosecco,2398,0.2906666666666667,11.0,750
+Lamberti Prosecco,2399,0.29078787878787876,11.0,750
+Lamberti Prosecco Rose Extra Dry Millesimato,2399,0.29078787878787876,11.0,750
+Tosti Prosecco Rose Mullesimato,2399,0.29078787878787876,11.0,750
+Blue Nun 24K Rose Edition,2410,0.2921212121212121,11.0,750
+Santacana Brut Metodo Tradictionnal,2529,0.2932173913043478,11.5,750
+Treviso 900 Brut,2423,0.2936969696969697,11.0,750
+Perelada Brut Reserva Blue Festival,2555,0.296231884057971,11.5,750
+Jacob's Creek Chardonnay Pinot Noir Brut,2449,0.29684848484848486,11.0,750
+Bouvet Brut Methode Traditionnelle,2790,0.2976,12.5,750
+Zonin Prosecco Brut Cuvee 1821,2458,0.29793939393939395,11.0,750
+Cune Brut Rosado,2699,0.29988888888888887,12.0,750
+Monistrol Brut Prestige Cuvee Limited Edition,2589,0.30017391304347824,11.5,750
+Codorniu Clasico Sec,1299,0.3012173913043478,11.5,375
+Pizzolato Pinot Grigio Extra Dry,2599,0.30133333333333334,11.5,750
+Serena Prosecco Extra Dry,2490,0.3018181818181818,11.0,750
+Albino Armani Prosecco,2490,0.3018181818181818,11.0,750
+Albino Armani Rose Extra Dry,2490,0.3018181818181818,11.0,750
+Villa Degli Olmi Prosecco Extra Dry,2493,0.30218181818181816,11.0,750
+Tosti Prosecco Extra Dry,2499,0.3029090909090909,11.0,750
+Piccini Prosecco Extra Dry Venetian Dress,2499,0.3029090909090909,11.0,750
+Piccini Prosecco Rose Extra Dry Millesimato,2499,0.3029090909090909,11.0,750
+Castelmondo Prosecco Rose Brut Millesimato,2499,0.3029090909090909,11.0,750
+Tommasi Prosecco Filo Dora,2499,0.3029090909090909,11.0,750
+Gancia Prosecco Rose Extra Dry Millesimato,2499,0.3029090909090909,11.0,750
+Codorniu Clasico Sec,699,0.30391304347826087,11.5,200
+Hochriegl Trocken,699,0.30391304347826087,11.5,200
+Codorniu Benjamín Clasico Seco,699,0.30391304347826087,11.5,200
+Hochriegl Rose,699,0.30391304347826087,11.5,200
+Blue Nun 24K Gold Edition,2529,0.30654545454545457,11.0,750
+"Jaume Serra Bouquet Rose, Jaume Serra Bouquet Brut",5299,0.30718840579710144,11.5,1500
+Serenello Prosecco Rose Extra Dry Millesimato,2537,0.3075151515151515,11.0,750
+Bouvet Rose Brut Methode Traditionnelle,2890,0.3082666666666667,12.5,750
+Vigna Preziosa Prosecco Brut,2659,0.30828985507246376,11.5,750
+Patrizi Asti Dolce,1739,0.3091555555555556,7.5,750
+Bohigas Brut Reserva,2790,0.31,12.0,750
+El Miracle Brut,2689,0.31176811594202897,11.5,750
+Villa Conchi Brut Seleccion,2690,0.3118840579710145,11.5,750
+Rich Secco,656,0.31238095238095237,10.5,200
+Cune Brut,2699,0.3129275362318841,11.5,750
+Pizzolato Prosecco,2599,0.31503030303030305,11.0,750
+JP. Chenet Muscat Divine Demi Sec,2599,0.31503030303030305,11.0,750
+Manfredi Asti Dolce,1798,0.31964444444444445,7.5,750
+Bergamo Vini Cuvee Marli Millesimato,2777,0.3219710144927536,11.5,750
+Bailly Lapierre Cremant Reserve Brut,2899,0.3221111111111111,12.0,750
+Crudo Prosecco,2790,0.3234782608695652,11.5,750
+Santa Margherita Valdobbiadene Prosecco Brut,2790,0.3234782608695652,11.5,750
+Anna Codorniu,2799,0.3245217391304348,11.5,750
+Freixenet Italian Rose Sparkling,2685,0.32545454545454544,11.0,750
+Freixenet Prosecco,2685,0.32545454545454544,11.0,750
+Monistrol Semi Seco Prestige Cuvee Limited Edition,2699,0.32715151515151514,11.0,750
+Pizzolato Rose Violette Extra Dry,2699,0.32715151515151514,11.0,750
+Andre Delorme Rose Brut Cremant de Bourgogne,2990,0.3322222222222222,12.0,750
+Andre Delorme Brut Cremant de Bourgogne,2990,0.3322222222222222,12.0,750
+Fita Azul Attitude Reserva Bruto Metodo Classico,2999,0.3332222222222222,12.0,750
+Bailly Lapierre Rose Brut,2999,0.3332222222222222,12.0,750
+Willm Cremant d'Alsace Brut,2999,0.3332222222222222,12.0,750
+Lucien Albrecht Brut Rose Cremant d'Alsace,2999,0.3332222222222222,12.0,750
+Francois Martenot Cremant de Bourgogne Brut,2999,0.3332222222222222,12.0,750
+Zenato Rose Metodo Charmat Brut,2999,0.3332222222222222,12.0,750
+Faustino Brut Rosado,2999,0.3332222222222222,12.0,750
+Fita Azul Passion Rose Bruto,2999,0.3332222222222222,12.0,750
+Fita Azul Celebration Reserva Meio Seco Metodo Classico,2999,0.3332222222222222,12.0,750
+Bestheim Cremant d'Alsace Brut Premium Magnum í öskju,5999,0.3332777777777778,12.0,1500
+Montesquius Brut Reserva Limited Edition,2885,0.3344927536231884,11.5,750
+h Honor Brut Rosat Ecologic Metode Tradicional,2891,0.33518840579710146,11.5,750
+h Honor Brut Seleccio Ecologic Metode Tradicional,2891,0.33518840579710146,11.5,750
+Faustino Brut Reserva,2899,0.3361159420289855,11.5,750
+Gancia Asti,1899,0.3376,7.5,750
+Martini Asti,1899,0.3376,7.5,750
+Masottina Calmaggiore Extra Dry,2790,0.3381818181818182,11.0,750
+Borgo Molino Extra Dry,2790,0.3381818181818182,11.0,750
+Kylie Minogue Prosecco Rose Extra Dry,2799,0.3392727272727273,11.0,750
+Vinyes Ocults Torrontes Dulce Natural,2190,0.3395348837209302,8.6,750
+JP. Chenet Ice Edition,749,0.34045454545454545,11.0,200
+Montesquius Naturelovers Brut Nature Reserva,2956,0.3427246376811594,11.5,750
+Lucien Albrecht Brut Cremant d'Alsace,3090,0.3433333333333333,12.0,750
+Monjardin Seleccion Chardonnay Metodo Champenoise Brut Nature,3099,0.3443333333333333,12.0,750
+Vinyes Ocults Pinot Noir Extra Brut,2999,0.3447126436781609,11.6,750
+Villa Conchi Brut Seleccion,1490,0.34550724637681157,11.5,375
+Castel Mare Prosecco Rose Extra Dry Organic,2989,0.34655072463768116,11.5,750
+Santero Moscato,1690,0.3466666666666667,6.5,750
+Conca d'Oro Millesimato Cuvee Oro Extra Dry,2990,0.3466666666666667,11.5,750
+Conca d'Oro Prosecco Rose Brut,2990,0.3466666666666667,11.5,750
+Allegrini Prosecco Millesimato Dry,2889,0.3501818181818182,11.0,750
+Skinny Prosecco Brut,2908,0.3524848484848485,11.0,750
+Vernice Brut,3195,0.355,12.0,750
+Bailly Lapierre Cremant Extra Brut,3199,0.35544444444444445,12.0,750
+Underwood The Bubbles,1467,0.35563636363636364,11.0,375
+Motivo Rose Extra Dry,2950,0.3575757575757576,11.0,750
+A Ardenghi Valdobbiadene Prosecco Superiore,3090,0.3582608695652174,11.5,750
+Montesquius des de 1918 Extra Brut Reserva Metodo Tradicional,3226,0.35844444444444445,12.0,750
+8 Centum Prosecco Brut,2960,0.35878787878787877,11.0,750
+Montespada Prosecco Extra Dry Millesimato,2964,0.3592727272727273,11.0,750
+Privat Brut Nature Reserva,3111,0.36069565217391303,11.5,750
+Perelada Stars Touch of Rose Brut,3111,0.36069565217391303,11.5,750
+Tosti Asti,1899,0.3617142857142857,7.0,750
+Gerard Bertrand Cremant de Limoux Brut,3399,0.36256,12.5,750
+Gerard Bertrand Cremant de Limoux Brut Rose,3399,0.36256,12.5,750
+Valdo Marca Oro Valdobbiadene Prosecco Extra Dry,5990,0.36303030303030304,11.0,1500
+Freixenet Italian Rose Sparkling,799,0.36318181818181816,11.0,200
+Mionetto Prosecco Treviso Brut,799,0.36318181818181816,11.0,200
+Sensi Prosecco 18K Brut,2998,0.3633939393939394,11.0,750
+Ruffino Prosecco Rose,2999,0.3635151515151515,11.0,750
+Fita Azul Woman Reserva Doce,3290,0.3655555555555556,12.0,750
+Underwood The Bubbles,2990,0.3657492354740061,10.9,750
+Anna Codorniu Blanc de Blancs Reserva Brut,849,0.3691304347826087,11.5,200
+Borgo Molino Prosecco Superiore Brut,3190,0.36985507246376814,11.5,750
+Bergamo Vini Prosecco Rose Millesimato,3222,0.3735652173913043,11.5,750
+Lamberti Prosecco Extra Dry,769,0.37384540593096743,11.0,187
+Bestheim Cremant d'Alsace Demi Sec,3314,0.38423188405797104,11.5,750
+Albino Armani Rose Extra Dry,849,0.3859090909090909,11.0,200
+Albino Armani Prosecco,849,0.3859090909090909,11.0,200
+Borgo Molino Brut,3191,0.3867878787878788,11.0,750
+Juve & Camps Brut Nature Gran Reserva,3490,0.3877777777777778,12.0,750
+Juve & Camps Brut Nature Gran Reserva,6990,0.3883333333333333,12.0,1500
+Schlumberger Brut,3499,0.3887777777777778,12.0,750
+Schlumberger Rose Brut,3499,0.3887777777777778,12.0,750
+Domaine de Savagny Cremant du Jura Brut,3499,0.3887777777777778,12.0,750
+Patrizi Suagna Rose Moscato Dolce,1899,0.38953846153846156,6.5,750
+Bailly Lapierre Reserve Brut,1768,0.3928888888888889,12.0,375
+Brilla Rose Vino Spumante,3250,0.3939393939393939,11.0,750
+Sensi 18K Prosecco Pas Dose Velvet Edition,3398,0.3939710144927536,11.5,750
+Saumur Louis de Grenelle Grande Cuvee Brut,3699,0.39456,12.5,750
+Martini Asti,599,0.3993333333333333,7.5,200
+Valdo Prosecco Extra Dry,888,0.4036363636363636,11.0,200
+Maschio Prosecco Rose Extra Dry,888,0.4036363636363636,11.0,200
+Corazon Spumante Rosado,3498,0.40556521739130436,11.5,750
+Schlumberger Gold Secco Methode Traditionnelle,3499,0.40568115942028987,11.5,750
+Schlumberger White Ice Secco,3499,0.40568115942028987,11.5,750
+Schlumberger Rose Ice Secco,3499,0.40568115942028987,11.5,750
+Piccini Prosecco Extra Dry,899,0.40863636363636363,11.0,200
+Borgo Molino Rose Extra Dry Millesimato,899,0.40863636363636363,11.0,200
+Moutard Blanc de Blancs Brut,3699,0.411,12.0,750
+Bad Girl Rose Brut,3890,0.4149333333333333,12.5,750
+Borgo Molino Prosecco Superiore Extra Dry,1790,0.41507246376811596,11.5,375
+Charles Volner Brut Blanc de Blancs,998,0.41583333333333333,12.0,200
+Charles Volner Rose Cuvee Selectionnee,998,0.41583333333333333,12.0,200
+Uivo PT Nat Branco Vinho,3498,0.424,11.0,750
+Pisoni Extra Brut Millesimato Metodo Classico,3990,0.4256,12.5,750
+Mure Cremant d'Alsace Prestige,3999,0.42656,12.5,750
+Escorihuela Gascon Extra Brut,4191,0.43317829457364343,12.9,750
+Zanotto Latifondo Brut,3790,0.4394202898550725,11.5,750
+Uivo PT Nat Rose Bruto Metodo Ancestral,3498,0.4441904761904762,10.5,750
+M Gran Reserva Brut Nature,3999,0.44433333333333336,12.0,750
+Nino Franco Rustico,3690,0.44727272727272727,11.0,750
+Bestheim Cremant d'Alsace Rose Grand,4197,0.44768,12.5,750
+Serena Prosecco Extra Dry,990,0.45,11.0,200
+Casarojo Molto Negre,3899,0.45205797101449274,11.5,750
+Tosti Prosecco Rose,999,0.4540909090909091,11.0,200
+Tosti Prosecco,999,0.4540909090909091,11.0,200
+Gustave Lorentz Cremant d'Alsace Brut,4290,0.4576,12.5,750
+Mure Cremant d'Alsace Rose,4299,0.45856,12.5,750
+Gancia Asti,699,0.466,7.5,200
+Schlumberger Rose Brut,1149,0.47875,12.0,200
+Schlumberger Brut,1149,0.47875,12.0,200
+Conca d'Oro Cuvee Gio Extra Dry,3990,0.48363636363636364,11.0,750
+JP. Chenet Ice Edition,3999,0.48472727272727273,11.0,750
+Le Chiassaie Brut,4790,0.49128205128205127,13.0,750
+Antica Fratta Cuvee Real Brut,4799,0.4922051282051282,13.0,750
+Gustave Lorentz Cremant d'Alsace Brut,8990,0.49944444444444447,12.0,1500
+Schlumberger Rose Ice Secco,1149,0.49956521739130433,11.5,200
+Schlumberger White Ice Secco,1149,0.49956521739130433,11.5,200
+Schlumberger Gold Secco Methode Traditionnelle,1149,0.49956521739130433,11.5,200
+Bottega Gold Millesimato,4199,0.508969696969697,11.0,750
+Decoy Brut Cuvee,5212,0.5147654320987655,13.5,750
+Ca' dell'Oro Vino Spumante Rose Brut Metodo,4890,0.5216,12.5,750
+Poulet & Fils Brut Methode traditionnelle,4519,0.5239420289855072,11.5,750
+Antica Fratta Cuvee Real Brut,2595,0.5323076923076923,13.0,375
+Antica Fratta Essence Brut Millesimato,5299,0.5434871794871795,13.0,750
+Bava Malvasia di Castelnuovo don Bosco,2874,0.5474285714285714,7.0,750
+Juve & Camps Brut Gran Reserva,4990,0.5544444444444444,12.0,750
+Ferrari Maximum Brut,5390,0.5749333333333333,12.5,750
+Charles Mignon Premier Reserve Brut,5390,0.5988888888888889,12.0,750
+Charles Mignon Rose Premier Cru Brut,5990,0.6389333333333334,12.5,750
+Pisoni Brut  Millesimato,5990,0.6389333333333334,12.5,750
+Tribaut Origine Brut,5995,0.6394666666666666,12.5,750
+BL Bliard Labeste Privilege Brut,5999,0.6398933333333333,12.5,750
+Poulet & Fils Tradition  Methode Dioise Ancestrale,4191,0.6574117647058824,8.5,750
+Besserat de Bellefon Bleu Brut,6215,0.6629333333333334,12.5,750
+Tribaut Premier Cru Extra Brut,6395,0.6821333333333334,12.5,750
+Tribaut Origine Brut,12995,0.6930666666666667,12.5,1500
+Vej Brut Cuvee Bianco Antico Metodo Classico,6399,0.711,12.0,750
+Andre Clouet Brut Grande Reserve,6484,0.7204444444444444,12.0,750
+Gusbourne Brut Reserve Twenty Eighteen,6490,0.7211111111111111,12.0,750
+Drappier Blanc de Blancs Brut,6499,0.7221111111111111,12.0,750
+Drappier Carte d'Or Brut,6499,0.7221111111111111,12.0,750
+Jean Laurent Blanc de Blancs Reserve,6798,0.72512,12.5,750
+G.H.Mumm Brut Cordon Rouge,6999,0.74656,12.5,750
+Besserat de Bellefon Rose Brut,7204,0.7684266666666667,12.5,750
+Gusbourne Rose Brut Twenty Eighteen,6990,0.7766666666666666,12.0,750
+Piper Heidsieck Cuvee Brut,6996,0.7773333333333333,12.0,750
+Nicolas Feuillatte Rose Reserve Exclusive Brut,6999,0.7776666666666666,12.0,750
+Champagne Collet Brut,7499,0.7998933333333333,12.5,750
+Lanson Black Label Brut Magnum,15249,0.81328,12.5,1500
+Lanson Black Label Brut,7645,0.8154666666666667,12.5,750
+Moet & Chandon Brut Imperial,7499,0.8332222222222222,12.0,750
+Drappier Clarevallis Extra Brut,7499,0.8332222222222222,12.0,750
+Drappier Brut Nature Pinot Noir Zero Dosage,7499,0.8332222222222222,12.0,750
+Lanson Black Label Brut,3992,0.8516266666666666,12.5,375
+Lanson White Label Sec,7986,0.85184,12.5,750
+Champagne Collet Brut Rose,7999,0.8532266666666667,12.5,750
+Piper Heidsieck Rose Sauvage,7690,0.8544444444444445,12.0,750
+Laurent Perrier Brut La Cuvee,7716,0.8573333333333333,12.0,750
+Drappier Charles de Gaulle Brut,7789,0.8654444444444445,12.0,750
+Charlier & Fils Special Club Brut,7859,0.8732222222222222,12.0,750
+Veuve Clicquot Brut,8299,0.8852266666666667,12.5,750
+Pol Roger Reserve Brut,8299,0.8852266666666667,12.5,750
+Drappier Rose Nature Pinot Noir Zero Dosage,7990,0.8877777777777778,12.0,750
+Lamborghini Pinot Chardonnay Brut,7990,0.8877777777777778,12.0,750
+Moet & Chandon Nectar Imperial,7999,0.8887777777777778,12.0,750
+Taittinger Brut Reserve í öskju,8390,0.8949333333333334,12.5,750
+Lanson Rose Brut,8519,0.9086933333333334,12.5,750
+Charles Heidsieck Brut Reserve,8199,0.911,12.0,750
+Lanson Black Label Brut,2297,0.9188,12.5,200
+Andre Clouet Brut Grande Reserve,16569,0.9205,12.0,1500
+Veuve Clicquot Demi Sec,8299,0.9221111111111111,12.0,750
+Champagne Stadil et Stadil Le Non Moi Grand Cru Brut,8790,0.9376,12.5,750
+Louis Roederer Brut Premier Magnum,17099,0.9499444444444445,12.0,1500
+Louis Roederer Collection 244,4480,0.9557333333333333,12.5,375
+Lanson Green Label Bio-Organic,8963,0.9560533333333333,12.5,750
+Louis Roederer Collection Brut,8998,0.9597866666666667,12.5,750
+Pol Roger Reserve Brut,4599,0.98112,12.5,375
+Bollinger Brut Special Cuvee,8899,0.9887777777777778,12.0,750
+Lanson Rose Brut,4663,0.9947733333333333,12.5,375
+Moet & Chandon Rose Imperial,8999,0.9998888888888889,12.0,750
+Moet & Chandon Ice Imperial,8999,0.9998888888888889,12.0,750
+Moet & Chandon Brut Imperial,17999,0.9999444444444444,12.0,1500
+Charles Heidsieck Rose Reserve,9300,1.0333333333333334,12.0,750
+Pol Roger Reserve Brut,38999,1.0399733333333334,12.5,3000
+Drappier Carte d'Or Brut,2498,1.0408333333333333,12.0,200
+Veuve Clicquot Rose,9799,1.0452266666666667,12.5,750
+Jacquesson Cuvée 744 Extra-Brut,9999,1.06656,12.5,750
+Moet & Chandon Brut Imperial,2699,1.1245833333333333,12.0,200
+Barons de Rothschild Extra Brut,10282,1.1424444444444444,12.0,750
+Perrier Jouet Blason Rose,10499,1.1665555555555556,12.0,750
+Pol Roger Brut Vintage,10999,1.1732266666666666,12.5,750
+Veuve Clicquot Brut,21699,1.2055,12.0,1500
+Barons de Rothschild Blanc de Blancs Brut,11276,1.252888888888889,12.0,750
+Louis Roederer Starck Brut Nature,11300,1.2555555555555555,12.0,750
+Louis Roederer Rose,11970,1.2768,12.5,750
+Bollinger Brut Rose,11599,1.2887777777777778,12.0,750
+Laurent Perrier Cuvee Rose Brut,11604,1.2893333333333334,12.0,750
+Louis Roederer Brut Vintage,11690,1.298888888888889,12.0,750
+Laurent Perrier Brut Millesime,11723,1.3025555555555555,12.0,750
+Louis Roederer Rose Brut,5880,1.3066666666666666,12.0,375
+Pol Roger Blanc de Blanc Brut Vintage,12499,1.3332266666666666,12.5,750
+Pol Roger Rose Vintage,12499,1.3332266666666666,12.5,750
+Lamborghini Brut,12063,1.3403333333333334,12.0,750
+Louis Roederer Rose Vintage,24895,1.3830555555555555,12.0,1500
+Veuve Clicquot Ponsardin Vintage í öskju,14999,1.5998933333333334,12.5,750
+Pisoni Erminia Segalla Riserva Extra Brut Metodo Classico,15052,1.6055466666666667,12.5,750
+Sabatina Brut,14989,1.6654444444444445,12.0,750
+Nicolas Feuillatte Palmes d'Or Brut Vintage,15999,1.7776666666666667,12.0,750
+Shobili Begotten Brut Nature,19843,2.2047777777777777,12.0,750
+Pol Roger Sir Winston Churchill Brut,24999,2.66656,12.5,750
+Perrier Jouet Belle Epoque,32090,3.4229333333333334,12.5,750
+Dom Perignon,32999,3.5198933333333335,12.5,750
+Rare Brut Millesime 2008,32745,3.638333333333333,12.0,750
+Louis Roederer Cristal,35630,3.8005333333333335,12.5,750
+Noble Brut Vintage,35820,3.8208,12.5,750
+Grand Siecle Laurent Perrier No 26,34900,3.8777777777777778,12.0,750
+Penfolds 175 Champagne,75000,4.0,12.5,1500
+Chateau d'Avize Blanc de Blancs Brut Zero Grand Cru,44990,4.284761904761905,14.0,750
+Dom Perignon Magnum,89999,4.799946666666667,12.5,1500
+Lamborghini Gold Brut Jeroboam í trékassa,249995,6.944305555555555,12.0,3000
