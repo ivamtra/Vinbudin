@@ -23,10 +23,10 @@ async function main() {
                 const alcoholPercentage = item.productAlchoholVolume;
                 const price = item.productPrice;
 
-                const ethanolMLInBottle = volume * alcoholPercentage;
+                const ethanolMLInBottle = volume * alcoholPercentage*0.01;
                 const ISK_Per_ML_Ethanol = price / ethanolMLInBottle;
 
-                item.ISK_Per_ML_Ethanol = ISK_Per_ML_Ethanol;
+                item.ISK_Per_ML_Ethanol = Math.round(ISK_Per_ML_Ethanol * 1000) / 1000.0;
             });
 
             // Sort products of this type by ISK_Per_ML_Ethanol
@@ -48,10 +48,7 @@ async function main() {
             
         });
         const pickedDataFilePath = './json/pickedData.json';
-        console.log(pickedData)
-        const csv = json2csv.parse(pickedData)
         await fs.writeFile(pickedDataFilePath, JSON.stringify(pickedData));
-        await fs.writeFile('./csv/pickedData.csv', csv);
     } catch (error) {
         console.error('Error:', error);
     }

@@ -1,27 +1,27 @@
 name,price,ISK_Per_ML_Ethanol,alcoholPercentage,volume_ML
-Martini Bianco Vermouth,3899,0.25993333333333335,15.0,1000
-Martini Extra Dry Vermouth,3899,0.25993333333333335,15.0,1000
-Martini Rosso Vermouth,3899,0.25993333333333335,15.0,1000
-Martini Rosato Vermouth,3899,0.25993333333333335,15.0,1000
-Martini Bianco Vermouth,1999,0.26653333333333334,15.0,500
-Martini Fiero l'Aperitivo,3099,0.27731543624161076,14.9,750
-Lillet Blanc Aperitif,4998,0.392,17.0,750
-Lillet Rose Aperitif,4998,0.392,17.0,750
-Starlino Orange Aperitivo,4999,0.392078431372549,17.0,750
-Starlino Rose Aperitivo,4999,0.392078431372549,17.0,750
-Starlino Elderflower Aperitivo,4999,0.392078431372549,17.0,750
-Dolin Vermouth Dry,5190,0.3954285714285714,17.5,750
-Dolin Vermouth Rouge,4999,0.41658333333333336,16.0,750
-Dolin Vermouth Blanc,4999,0.41658333333333336,16.0,750
-Cocchi Americano Aperitivo,5500,0.4444444444444444,16.5,750
-Cocchi Rosa Aperitivo,5500,0.4444444444444444,16.5,750
-Cocchi Vermouth di Torino,5500,0.4583333333333333,16.0,750
-Silvio Carta Sardegna Vermouth,6599,0.4888148148148148,18.0,750
-Belsazar Vermouth Dry grænn miði,6999,0.4911578947368421,19.0,750
-Luxardo Aperitivo,3799,0.49337662337662336,11.0,700
-Aperol Aperitivo,5699,0.518090909090909,11.0,1000
-Antica Formula Vermouth,3299,0.5331717171717172,16.5,375
-Belsazar Vermouth Red,7199,0.5332592592592592,18.0,750
-Aperol Aperitivo,4150,0.538961038961039,11.0,700
-Discarded Sweet Cascara Vermouth,5999,0.5713333333333334,21.0,500
-Aperol Aperitivo,22599,0.6848181818181818,11.0,3000
+Martini Bianco Vermouth,3899,25.993,15.0,1000
+Martini Extra Dry Vermouth,3899,25.993,15.0,1000
+Martini Rosso Vermouth,3899,25.993,15.0,1000
+Martini Rosato Vermouth,3899,25.993,15.0,1000
+Martini Bianco Vermouth,1999,26.653,15.0,500
+Martini Fiero l'Aperitivo,3099,27.732,14.9,750
+Lillet Blanc Aperitif,4998,39.2,17.0,750
+Lillet Rose Aperitif,4998,39.2,17.0,750
+Starlino Orange Aperitivo,4999,39.208,17.0,750
+Starlino Rose Aperitivo,4999,39.208,17.0,750
+Starlino Elderflower Aperitivo,4999,39.208,17.0,750
+Dolin Vermouth Dry,5190,39.543,17.5,750
+Dolin Vermouth Rouge,4999,41.658,16.0,750
+Dolin Vermouth Blanc,4999,41.658,16.0,750
+Cocchi Americano Aperitivo,5500,44.444,16.5,750
+Cocchi Rosa Aperitivo,5500,44.444,16.5,750
+Cocchi Vermouth di Torino,5500,45.833,16.0,750
+Silvio Carta Sardegna Vermouth,6599,48.881,18.0,750
+Belsazar Vermouth Dry grænn miði,6999,49.116,19.0,750
+Luxardo Aperitivo,3799,49.338,11.0,700
+Aperol Aperitivo,5699,51.809,11.0,1000
+Antica Formula Vermouth,3299,53.317,16.5,375
+Belsazar Vermouth Red,7199,53.326,18.0,750
+Aperol Aperitivo,4150,53.896,11.0,700
+Discarded Sweet Cascara Vermouth,5999,57.133,21.0,500
+Aperol Aperitivo,22599,68.482,11.0,3000

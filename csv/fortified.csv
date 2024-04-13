@@ -1,55 +1,55 @@
 name,price,ISK_Per_ML_Ethanol,alcoholPercentage,volume_ML
-Canasta Cream,8645,0.29555555555555557,19.5,1500
-Don Zoilo Oloroso 12 ára,4388,0.3079298245614035,19.0,750
-Gerard Bertrand Banyuls,3999,0.33325,16.0,750
-Don Zoilo Pedro Ximenez 12 ára,4519,0.3347407407407407,18.0,750
-Sandeman Old Invalid,4999,0.3418119658119658,19.5,750
-Sandeman Medium Dry,5199,0.3466,15.0,1000
-Sandeman Fine White Porto,6799,0.3486666666666667,19.5,1000
-Porto Cruz Tawny,4990,0.35017543859649125,19.0,750
-Graham's Fine Tawny,4998,0.3507368421052632,19.0,750
-Osborne Ruby,4998,0.3507368421052632,19.0,750
-Croft Fine Tawny Port,5299,0.3532666666666667,20.0,750
-Gonzalez Byass Tio Pepe Fino,3980,0.3537777777777778,15.0,750
-Harveys Solera Medium Dry,4699,0.3580190476190476,17.5,750
-Sandeman Fine Tawny,6999,0.3589230769230769,19.5,1000
-Taylor's Select Port,5399,0.3599333333333333,20.0,750
-Harveys Bristol Cream,4799,0.36563809523809526,17.5,750
-Madere Cruz,4698,0.3684705882352941,17.0,750
-Dry Sack Medium,4159,0.3696888888888889,15.0,750
-Osborne Sherry Golden,4199,0.37324444444444443,15.0,750
-Osborne Medium,4199,0.37324444444444443,15.0,750
-Cockburn's Special Reserve,5784,0.3856,20.0,750
-Graham's LBV Port,5798,0.38653333333333334,20.0,750
-Osborne LBV,5699,0.3896752136752137,19.5,750
-Graham's Six Grapes Reserve Port,5899,0.39326666666666665,20.0,750
-Sandeman Founders Reserve,5999,0.3999333333333333,20.0,750
-La Guita Manzanilla,4599,0.4088,15.0,750
-Calem Fine White Porto,5999,0.4101880341880342,19.5,750
-Calem Porto Rose,5999,0.4101880341880342,19.5,750
-Croft Pale Cream,5415,0.4125714285714286,17.5,750
-Torres Moscatel Oro,3136,0.41813333333333336,15.0,500
-Lombardo Marsala Cucina,5500,0.43137254901960786,17.0,750
-Portal Late Bottled Vintage,6499,0.4332666666666667,20.0,750
-Graham's 10 ára Tawny,6599,0.43993333333333334,20.0,750
-Martha's Special Reserve,6490,0.4437606837606838,19.5,750
-Tio Diego Amontillado,6299,0.4665925925925926,18.0,750
-Blandy's Madeira Reserva 5 ára,4499,0.47357894736842104,19.0,500
-Gonzalez Byass Pedro Ximenez Nectar,2702,0.48035555555555554,15.0,375
-Inocente Fino,2799,0.4976,15.0,375
-Porto Cruz Tawny,1798,0.49944444444444447,18.0,200
-Bulas 10 ára Tawny,7775,0.5316239316239316,19.5,750
-Taylor's LBV,3999,0.5332,20.0,375
-Chateau Orignac Pineau d'Exception,7728,0.5724444444444444,18.0,750
-Cockburn's 10 ára Tawny,5849,0.5849,20.0,500
-Graham's Tawny 20 ára,8998,0.5998666666666667,20.0,750
-"Porto Cruz White, Ruby, Tawny, Reserva, 10 ára",2999,0.6313684210526316,19.0,250
-Royal Oporto Tawny 20 ára,9889,0.6592666666666667,20.0,750
-Ramos Pinto RP 20 ára,13699,0.8909918699186992,20.5,750
-Gran Cruz 20 ára,13690,0.9126666666666666,20.0,750
-Noe Pedro Ximenez 30 ára,5415,0.9316129032258065,15.5,375
-Cockburn's Bicentenary Vintage 2015,15398,1.0265333333333333,20.0,750
-Porto Cruz 30 ára,15690,1.046,20.0,750
-Sandeman Old Tawny 30 ára,15999,1.0666,20.0,750
-Ramos Pinto RP 30 ára,16765,1.0904065040650406,20.5,750
-Porto Cruz 40 ára,16790,1.1782456140350877,19.0,750
+Canasta Cream,8645,29.556,19.5,1500
+Don Zoilo Oloroso 12 ára,4388,30.793,19.0,750
+Gerard Bertrand Banyuls,3999,33.325,16.0,750
+Don Zoilo Pedro Ximenez 12 ára,4519,33.474,18.0,750
+Sandeman Old Invalid,4999,34.181,19.5,750
+Sandeman Medium Dry,5199,34.66,15.0,1000
+Sandeman Fine White Porto,6799,34.867,19.5,1000
+Porto Cruz Tawny,4990,35.018,19.0,750
+Graham's Fine Tawny,4998,35.074,19.0,750
+Osborne Ruby,4998,35.074,19.0,750
+Croft Fine Tawny Port,5299,35.327,20.0,750
+Gonzalez Byass Tio Pepe Fino,3980,35.378,15.0,750
+Harveys Solera Medium Dry,4699,35.802,17.5,750
+Sandeman Fine Tawny,6999,35.892,19.5,1000
+Taylor's Select Port,5399,35.993,20.0,750
+Harveys Bristol Cream,4799,36.564,17.5,750
+Madere Cruz,4698,36.847,17.0,750
+Dry Sack Medium,4159,36.969,15.0,750
+Osborne Sherry Golden,4199,37.324,15.0,750
+Osborne Medium,4199,37.324,15.0,750
+Cockburn's Special Reserve,5784,38.56,20.0,750
+Graham's LBV Port,5798,38.653,20.0,750
+Osborne LBV,5699,38.968,19.5,750
+Graham's Six Grapes Reserve Port,5899,39.327,20.0,750
+Sandeman Founders Reserve,5999,39.993,20.0,750
+La Guita Manzanilla,4599,40.88,15.0,750
+Calem Fine White Porto,5999,41.019,19.5,750
+Calem Porto Rose,5999,41.019,19.5,750
+Croft Pale Cream,5415,41.257,17.5,750
+Torres Moscatel Oro,3136,41.813,15.0,500
+Lombardo Marsala Cucina,5500,43.137,17.0,750
+Portal Late Bottled Vintage,6499,43.327,20.0,750
+Graham's 10 ára Tawny,6599,43.993,20.0,750
+Martha's Special Reserve,6490,44.376,19.5,750
+Tio Diego Amontillado,6299,46.659,18.0,750
+Blandy's Madeira Reserva 5 ára,4499,47.358,19.0,500
+Gonzalez Byass Pedro Ximenez Nectar,2702,48.036,15.0,375
+Inocente Fino,2799,49.76,15.0,375
+Porto Cruz Tawny,1798,49.944,18.0,200
+Bulas 10 ára Tawny,7775,53.162,19.5,750
+Taylor's LBV,3999,53.32,20.0,375
+Chateau Orignac Pineau d'Exception,7728,57.244,18.0,750
+Cockburn's 10 ára Tawny,5849,58.49,20.0,500
+Graham's Tawny 20 ára,8998,59.987,20.0,750
+"Porto Cruz White, Ruby, Tawny, Reserva, 10 ára",2999,63.137,19.0,250
+Royal Oporto Tawny 20 ára,9889,65.927,20.0,750
+Ramos Pinto RP 20 ára,13699,89.099,20.5,750
+Gran Cruz 20 ára,13690,91.267,20.0,750
+Noe Pedro Ximenez 30 ára,5415,93.161,15.5,375
+Cockburn's Bicentenary Vintage 2015,15398,102.653,20.0,750
+Porto Cruz 30 ára,15690,104.6,20.0,750
+Sandeman Old Tawny 30 ára,15999,106.66,20.0,750
+Ramos Pinto RP 30 ára,16765,109.041,20.5,750
+Porto Cruz 40 ára,16790,117.825,19.0,750
