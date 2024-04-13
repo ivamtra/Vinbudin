@@ -1,0 +1,1401 @@
+name,price,ISK_Per_ML_Ethanol,alcoholPercentage,volume_ML,vivino_rating
+Opera Prima Cabernet Sauvignon,5999,15.382,13.0,3000,29.0
+Red Blend Portugal by Casa Santos Lima,6998,17.279,13.5,3000,37.0
+Il Barone Rosso,6499,17.331,12.5,3000,34.0
+JP Azeitao Syrah Castelao Aragonez,6789,17.408,13.0,3000,38.0
+Galodoro Winmaker's Red,6648,17.728,12.5,3000,37.0
+Don Simon Seleccion Tempranillo,6399,17.775,12.0,3000,30.0
+Lab Vinho Regional Lisboa rautt,6998,17.944,13.0,3000,38.0
+Mamma Piccini Rosso di Toscana,6999,17.946,13.0,3000,36.0
+Piccanti Rosso Toscana,6999,17.946,13.0,3000,34.0
+Drostdy Hof Shiraz Merlot,7298,18.02,13.5,3000,32.0
+Rendola Red Wine,6498,18.05,12.0,3000,39.0
+Gauma Tempranillo,6790,18.107,12.5,3000,38.0
+Lirico Tinto Premium Selection,6799,18.131,12.5,3000,29.0
+Leva Reserve Cabernet Sauvignon Merlot,7348,18.143,13.5,3000,
+Pata Negra Apasionado,7899,18.159,14.5,3000,36.0
+Torre Solada Rosso,1999,18.173,11.0,1000,29.0
+Gato Negro Cabernet Sauvignon,5999,18.179,11.0,3000,34.0
+Ponte Villoni Rosso,6299,18.258,11.5,3000,34.0
+Don Simon Merlot,2199,18.325,12.0,1000,35.0
+Don Simon Cabernet Sauvignon,2199,18.325,12.0,1000,34.0
+Colossal Reserva Tinto,7698,18.329,14.0,3000,
+Stone Valley Shiraz,7999,18.389,14.5,3000,34.0
+Antiche Terre Solo Passione Rosso Gold Edition,7448,18.39,13.5,3000,36.0
+"Marques de las Cuevas Tempranillo, Cabernet",7190,18.436,13.0,3000,35.0
+Cigarra Reserva Shiraz Tinta Barroca,1798,18.441,13.0,750,35.0
+Castillo De Gredos Organic Red Wine,2399,18.454,13.0,1000,25.0
+Casalforte Collezione Campistorti Rosso Veneto,7198,18.456,13.0,3000,37.0
+Casa Cavallo Rosso,7248,18.585,13.0,3000,36.0
+Viva Valentina Sangiovese,7298,18.713,13.0,3000,37.0
+Porta 6 Vinho Tinto,7599,18.763,13.5,3000,38.0
+Don Simon Seleccion Tempranillo,1699,18.878,12.0,750,30.0
+Lab Reserva Touriga Nacional Cabernet Sauvignon,7948,18.924,14.0,3000,39.0
+Stemmari Rosso,7399,18.972,13.0,3000,39.0
+Zensa Primitivo,7998,19.043,14.0,3000,39.0
+Hope Grand Reserve Cabernet Sauvignon Merlot Shiraz,7998,19.043,14.0,3000,40.0
+Piccini Memoro rautt,7999,19.045,14.0,3000,38.0
+Lab Best in Show Tinto Red,5398,19.279,14.0,2000,37.0
+The Wanted Zin Zinfandel Old Vines,8398,19.306,14.5,3000,38.0
+down under shiraz cabernet sauvignon Organic Wine,1965,19.407,13.5,750,32.0
+Porta 6 Vinho Tinto,1965,19.407,13.5,750,38.0
+Blaissac Bordeaux rautt,1968,19.437,13.5,750,33.0
+Gato Negro Merlot,1899,19.477,13.0,750,32.0
+Tarapaca Cabernet Sauvignon Syrah,3799,19.482,13.0,1500,36.0
+Lisa 1503 Rosso d'Artista,7599,19.485,13.0,3000,31.0
+Cigarra Reserva Shiraz Touriga Nacional,7898,19.501,13.5,3000,36.0
+Butcher's Cut Malbec,7899,19.504,13.5,3000,37.0
+Marco Zanatta Cannonau di Sardegna,1990,19.654,13.5,750,38.0
+Quinta das Setencostas,1998,19.733,13.5,750,38.0
+JP. Chenet Cabernet Syrah,7699,19.741,13.0,3000,34.0
+Gato Negro Cabernet Sauvignon,1629,19.745,11.0,750,34.0
+Lisbonita Tinto,1948,19.979,13.0,750,36.0
+Lab Vinho Regional Lisboa rautt,1948,19.979,13.0,750,38.0
+Red Blend Portugal by Casa Santos Lima,1948,19.979,13.0,750,37.0
+Vina Maipo Cabernet Sauvignon,6599,19.997,11.0,3000,32.0
+Casa Santos Lima OMG rautt,4248,20.229,14.0,1500,37.0
+Frontera Cabernet Sauvignon,6699,20.3,11.0,3000,32.0
+Porrais Douro rautt,7948,20.379,13.0,3000,38.0
+Umbala Grande Reserve,8890,20.437,14.5,3000,35.0
+La mia Pecora is Red Montepulciano d'Abruzzo,7990,20.487,13.0,3000,
+Doppio Passo Primitivo,7990,20.487,13.0,3000,40.0
+Ogier Cotes du Rhone Artesis Rouge,8299,20.491,13.5,3000,37.0
+Rabo de Gala Tinto,1998,20.492,13.0,750,38.0
+La Bella Barbera,1999,20.503,13.0,750,35.0
+Piccini Rosso Toscana,1999,20.503,13.0,750,38.0
+Mamma Piccini Rosso di Toscana,1999,20.503,13.0,750,36.0
+Vina Albali Tempranillo Organic Wine,7999,20.51,13.0,3000,
+Mafi Rosso Oak Aged,8998,20.685,14.5,3000,39.0
+Balestino Tempranillo Seleccion Privada,8998,20.685,14.5,3000,33.0
+Beats the Devil Premium Shiraz,8998,20.685,14.5,3000,36.0
+Coste Carezzi Parziale Appassimento,8998,20.685,14.5,3000,35.0
+Marques de Nombrevilla Garnacha,4190,20.691,13.5,1500,35.0
+Tall Horse Wines Shiraz,2099,20.731,13.5,750,35.0
+Tall Horse Wines Merlot,2099,20.731,13.5,750,37.0
+Tall Horse Wines Cabernet Sauvignon,2099,20.731,13.5,750,38.0
+Riunite Lambrusco,2490,20.75,8.0,1500,38.0
+Fuori Porta Sangiovese Vino Rosso,1948,20.779,12.5,750,38.0
+El Sierro Reserva,2190,20.857,14.0,750,36.0
+Castillo de Olite Tempranillo,2115,20.889,13.5,750,31.0
+Casa Santos Lima OMG rautt,2198,20.933,14.0,750,37.0
+Lab Reserva,2198,20.933,14.0,750,36.0
+Viva Valentina Il Classico Rosso,4398,20.943,14.0,1500,38.0
+Joseph Pellerin Cotes du Rhone Reserve,8799,20.95,14.0,3000,33.0
+Sangre de Toro rautt,8490,20.963,13.5,3000,35.0
+Adobe Cabernet Sauvignon Syrah Carmenere,8499,20.985,13.5,3000,35.0
+Wolf Blass Red Label Shiraz Merlot Durif,8499,20.985,13.5,3000,34.0
+Leva Pinot Noir,2048,21.005,13.0,750,33.0
+Mucho Mas Tinto,8899,21.188,14.0,3000,42.0
+Antiche Terre Valpolicella Rosso,7948,21.195,12.5,3000,38.0
+Freixenet Mia Fruity & Full Bodied,7990,21.307,12.5,3000,34.0
+Escada Touriga Nacional,7991,21.309,12.5,3000,37.0
+Lirico Tinto Premium Selection,1999,21.323,12.5,750,29.0
+Casillero del Diablo Cabernet Sauvignon,7999,21.331,12.5,3000,35.0
+Lindeman's Shiraz Cabernet,7999,21.331,12.5,3000,35.0
+Bouchard Aine Pinot Noir Heritage du Conseiller,7999,21.331,12.5,3000,35.0
+Sancrispino Syrah Merlot Bio,1390,21.385,13.0,500,34.0
+Amicale,8990,21.405,14.0,3000,40.0
+Colossal Reserva,2248,21.41,14.0,750,39.0
+Hillside Valley Zinfandel Black Label,8998,21.424,14.0,3000,37.0
+Goats do Roam Grand Reserve Red,8690,21.457,13.5,3000,35.0
+Apothic Red,8698,21.477,13.5,3000,37.0
+Silk & Spice Red Blend,8699,21.479,13.5,3000,36.0
+Rendola Red Wine,2098,21.518,13.0,750,39.0
+Vina Maipo Classic Series Cabernet Sauvignon,1949,21.656,12.0,750,34.0
+Coronas Tempranillo,8790,21.704,13.5,3000,35.0
+Leva Cabernet Sauvignon Merlot,2198,21.709,13.5,750,33.0
+Appassimento Originale,9450,21.724,14.5,3000,
+Bay Area Zinfandel,6390,21.846,13.0,2250,36.0
+Lab Reserva,1148,21.867,14.0,375,36.0
+Kirkland Rioja Reserva,2227,21.995,13.5,750,36.0
+Inycon Appassimento Rosso Organic Private Selection,5940,22.0,13.5,2000,36.0
+Periquita Reserva Red Wine,8590,22.026,13.0,3000,31.0
+Viva Valentina Sangiovese,4298,22.041,13.0,1500,37.0
+Tommasi Graticcio Appassionato,8299,22.131,12.5,3000,38.0
+Allegro Primitivo Sangiovese Organic,8977,22.165,13.5,3000,42.0
+Uncorked Cotes du Rhone Rouge Cuvee Speciale,8990,22.198,13.5,3000,37.0
+African Spirit Pinotage Shiraz,8990,22.198,13.5,3000,36.0
+Frontera Cabernet Sauvignon,1999,22.211,12.0,750,32.0
+Make It Big True Pinot Noir VAT.47,8998,22.217,13.5,3000,35.0
+Carlo Rossi California Red,3999,22.217,12.0,1500,33.0
+Trapiche Reserve Malbec,4499,22.217,13.5,1500,39.0
+Falling Feather Ruby Cabernet,7999,22.219,12.0,3000,35.0
+Enzo Bartoli,8999,22.22,13.5,3000,40.0
+Trapiche Malbec,2099,22.389,12.5,750,35.0
+Alberone Grande Rosso Oak Aged,9790,22.506,14.5,3000,
+The Wanted Zin Zinfandel Old Vines,2448,22.51,14.5,750,38.0
+Faustino Tempranillo,8799,22.562,13.0,3000,36.0
+Sancrispino Rosso,2490,22.636,11.0,1000,27.0
+Barefoot Cabernet Sauvignon,2299,22.706,13.5,750,33.0
+Folklore Tempranillo & Garnacha Vino Tinto,2299,22.706,13.5,750,
+Barefoot Merlot,2299,22.706,13.5,750,35.0
+Torres Gran Sangre de Toro Reserva,2474,22.749,14.5,750,37.0
+Viva Valentina Il Classico Rosso,2398,22.838,14.0,750,38.0
+Famiglia Grillo Organic Rosso,2398,22.838,14.0,750,36.0
+Gabriel Meffre Saint-Vincent Cotes-du-Rhone,2227,22.841,13.0,750,36.0
+Think Big Great Zinfandel,9990,22.966,14.5,3000,38.0
+M. Chapoutier Belleruche Rouge,9999,22.986,14.5,3000,37.0
+Torri Montepulziano d'Abruzzo,8990,23.051,13.0,3000,39.0
+Tommolo Montepulciano d'Abruzzo Organic,8990,23.051,13.0,3000,33.0
+Gato Negro Cabernet Sauvignon,569,23.406,13.0,187,34.0
+Terre del Noce Cabernet Sauvignon,2199,23.456,12.5,750,33.0
+Bouchard Aine Rouge Rubis Collection,2199,23.456,12.5,750,33.0
+French Dog Merlot,2290,23.487,13.0,750,38.0
+Piccini Chianti,2299,23.579,13.0,750,36.0
+Marques de Nombrevilla Garnacha,2390,23.605,13.5,750,35.0
+La Cova Negra Tempranillo,2390,23.605,13.5,750,33.0
+Emporium Appassimento,2567,23.605,14.5,750,40.0
+Tommasi Valpolicella,8499,23.608,12.0,3000,43.0
+Adobe Reserva Syrah,2399,23.694,13.5,750,35.0
+Adobe Reserva Carmenere,2399,23.694,13.5,750,36.0
+Adobe Reserva Merlot,2399,23.694,13.5,750,36.0
+Montalto Cabernet Sauvignon Nero d'Avola,2399,23.694,13.5,750,36.0
+Montgras de Vine Carmenere Reserva,2399,23.694,13.5,750,37.0
+Adobe Reserva Cabernet Sauvignon,2399,23.694,13.5,750,35.0
+Montalto Organic Nero d'Avola,2399,23.694,13.5,750,34.0
+Stemmari Cabernet Sauvignon,2399,23.694,13.5,750,36.0
+B Barossa Ink Shiraz,2399,23.694,13.5,750,41.0
+Adobe Reserva Pinot Noir,2399,23.694,13.5,750,35.0
+Adobe Merlot Cabernet Sauvignon Syrah,4799,23.699,13.5,1500,36.0
+Barefoot Merlot,599,23.727,13.5,187,35.0
+Zensa Primitivo,2498,23.79,14.0,750,39.0
+Piccini Memoro rautt,2499,23.8,14.0,750,38.0
+Chateau La Carelle Bordeaux,7499,23.806,14.0,2250,38.0
+Amaren Selection de Vinedos,2590,23.816,14.5,750,39.0
+Corte del Golfo Lazio Rosso,2590,23.816,14.5,750,40.0
+Van Cat Areni,2554,24.324,14.0,750,33.0
+Marques del Silvo Crianza,2464,24.336,13.5,750,39.0
+Bigi Sangiovese,2470,24.395,13.5,750,34.0
+French Dog Cabernet Sauvignon,2290,24.427,12.5,750,38.0
+Gauma Tempranillo Dry Red,2290,24.427,12.5,750,38.0
+b.io Nero d'Avola Cabernet,2390,24.513,13.0,750,38.0
+Rossetti Rosso,2299,24.523,12.5,750,40.0
+Marques d'Almeida Tinto,2490,24.593,13.5,750,36.0
+Horizon de Bichot Pinot Noir,2490,24.593,13.5,750,37.0
+Liver More Zinfndl Red Wine,2490,24.593,13.5,750,
+Painted Wolf The Den Pinotage,2490,24.593,13.5,750,37.0
+Viva Valentina Chianti Riserva,2398,24.595,13.0,750,37.0
+Serafini Sangiovese,2398,24.595,13.0,750,37.0
+JP. Chenet Cabernet Syrah,2399,24.605,13.0,750,34.0
+Montgras de Vine Merlot Reserva,2399,24.605,13.0,750,32.0
+Tagaro Pinataro Nero di Troia,2399,24.605,13.0,750,39.0
+Faustino VII Tempranillo,2399,24.605,13.0,750,36.0
+Finca del Mar Tempranillo Crianza,2399,24.605,13.0,750,35.0
+Riunite Lambrusco,1479,24.65,8.0,750,38.0
+Masso Antico Primitivo Single Vineyard,2590,24.667,14.0,750,40.0
+Masso Antico Primitivo,2590,24.667,14.0,750,41.0
+Casillero del Diablo Carmenere Reserva,2499,24.681,13.5,750,36.0
+Lopez de Haro Crianza,2499,24.681,13.5,750,36.0
+Yellow Tail Shiraz,2499,24.681,13.5,750,35.0
+19 Crimes,2499,24.681,13.5,750,40.0
+Beringer Cabernet Sauvignon,2499,24.681,13.5,750,41.0
+Casillero del Diablo Merlot,2499,24.681,13.5,750,35.0
+Campo Viejo Tempranillo,2499,24.681,13.5,750,36.0
+Morande Pionero Reserva Cabernet Sauvignon,2499,24.681,13.5,750,33.0
+Stemmari Rosso Riserva,2499,24.681,13.5,750,39.0
+Yellow Tail Cabernet Sauvignon,2499,24.681,13.5,750,33.0
+Fantini Sangiovese Puglia,2499,24.681,13.5,750,37.0
+Ancora Montepulciano d'Abruzzo,2499,24.681,13.5,750,35.0
+Trapiche Malbec Oak Cask,2499,24.681,13.5,750,36.0
+Piccini Collezione Oro Riserva,2499,24.681,13.5,750,36.0
+Jacob's Creek Cabernet Sauvignon,2499,24.681,13.5,750,34.0
+Finca Las Moras Cabernet Sauvignon,2499,24.681,13.5,750,34.0
+Trivento Cabernet Sauvignon Reserve,2599,24.752,14.0,750,36.0
+Faustino VII Cabernet Sauvignon,2599,24.752,14.0,750,36.0
+Vidal Fleury GSM,2599,24.752,14.0,750,34.0
+Hardys Nottage Hill Cabernet Shiraz,2599,24.752,14.0,750,34.0
+Mucho Mas Tinto,2599,24.752,14.0,750,42.0
+Montes Merlot Reserva,2699,24.818,14.5,750,37.0
+Dark Horse Zinfandel,2699,24.818,14.5,750,35.0
+Montes Cabernet Sauvignon Carmenere Limited Sel.,2699,24.818,14.5,750,38.0
+Real Agrado Rautt,2700,24.828,14.5,750,37.0
+Big Boys Zinfandel,2799,24.88,15.0,750,41.0
+Carlo Rossi Sweet Red,2999,24.992,8.0,1500,36.0
+Viva Valentina Sangiovese,2348,25.045,12.5,750,37.0
+Freixenet Mia Fruity Full Bodied Red,2350,25.067,12.5,750,
+19 Crimes The Banished Park Red,2540,25.086,13.5,750,40.0
+Castillo de Olite Crianza,2567,25.353,13.5,750,38.0
+Bell'Agio Chianti,2480,25.436,13.0,750,36.0
+Adobe Reserva Cabernet Sauvignon,1290,25.481,13.5,375,35.0
+bree merlot,829,25.508,13.0,250,31.0
+Radacini Merlot,2489,25.528,13.0,750,34.0
+Maximus Negroamoro Zinfandel Limited Edition,2490,25.538,13.0,750,38.0
+Freixenet Cabernet Sauvignon,2490,25.538,13.0,750,34.0
+Yellow Tail Jammy Red Roo,2299,25.544,12.0,750,37.0
+Camp Round & Fruity Shiraz Cabernet Sauvignon,2299,25.544,12.0,750,
+Falling Feather Ruby Cabernet,2299,25.544,12.0,750,35.0
+Liver More Pnot Nor Red Wine,2590,25.58,13.5,750,
+Vinha da Urze Tinto,2590,25.58,13.5,750,37.0
+Querceto Red Wine,2590,25.58,13.5,750,39.0
+Casillero del Diablo Cabernet Sauvignon,2399,25.589,12.5,750,35.0
+Master Rabbit Syrah,2499,25.631,13.0,750,38.0
+Mr. Rabbit Cabernet Sauvignon,2499,25.631,13.0,750,36.0
+RIB Tickler Shiraz,2499,25.631,13.0,750,40.0
+Silk & Spice Red Blend,2599,25.669,13.5,750,36.0
+Ramon Roqueta Reserva,2599,25.669,13.5,750,37.0
+Siglo Tempranillo,2599,25.669,13.5,750,37.0
+Il Nostro Rosso,2599,25.669,13.5,750,33.0
+Nederburg Cabernet Sauvignon The Winemasters,2599,25.669,13.5,750,35.0
+Castillo Monjardin Garnacha,2599,25.669,13.5,750,35.0
+Purato Nero d'Avola,2599,25.669,13.5,750,36.0
+Lindeman's Bin 45 Cabernet Sauvignon,2599,25.669,13.5,750,34.0
+Stemmari Passiata,2599,25.669,13.5,750,39.0
+Dark Horse Cabernet Sauvignon,2599,25.669,13.5,750,36.0
+Montecillo Crianza,2599,25.669,13.5,750,36.0
+Chateau Calet,2699,25.705,14.0,750,36.0
+Montes Cabernet Sauvignon Reserva,2699,25.705,14.0,750,37.0
+19 Crimes The Uprising,2699,25.705,14.0,750,40.0
+Hardys William Hardy Shiraz Langhorne Creek & Limestone Coast,2699,25.705,14.0,750,34.0
+Baron de Ley Club Privado,2699,25.705,14.0,750,37.0
+Passo del Sud Appassimento,2699,25.705,14.0,750,42.0
+Ramon Bilbao Crianza,2699,25.705,14.0,750,39.0
+Montgras Day One Carmenere Selected Harvest,2699,25.705,14.0,750,40.0
+Antiche Terre Valpolicella Ripasso,2648,26.153,13.5,750,38.0
+Neleman Tempranillo Monastrell Organic,850,26.154,13.0,250,36.0
+Lab Signature Tinto,2948,26.204,15.0,750,40.0
+Valdecuriel Roble 8 Meses,2950,26.222,15.0,750,40.0
+Solandia Primitivo,2490,26.56,12.5,750,34.0
+Freixenet Chianti,2490,26.56,12.5,750,38.0
+Crama Oprisor Caloian Cabernet Sauvignon,2789,26.562,14.0,750,43.0
+Santa Julia Reserva Malbec Cabernet Franc,2889,26.566,14.5,750,37.0
+Masciarelli Montepulciano d'Abruzzo Masciarelli,2690,26.568,13.5,750,37.0
+Alamos Cabernet Sauvignon,2690,26.568,13.5,750,36.0
+Zenato Alanera,2690,26.568,13.5,750,39.0
+Amicale Rosso,2790,26.571,14.0,750,38.0
+Chateau Lafont Fourcat Rouge,2790,26.571,14.0,750,36.0
+Pasarisa Malbec,2790,26.571,14.0,750,40.0
+Lopez de Haro Reserva,2790,26.571,14.0,750,38.0
+Matsu El Picaro,2790,26.571,14.0,750,39.0
+Familia Valdelana Crianza,2890,26.575,14.5,750,37.0
+Acordeon Malbec Estate Grown,2895,26.621,14.5,750,38.0
+Viva Valentina Il Classico Rosso,1398,26.629,14.0,375,38.0
+Chateau du Bergey Fronsac Cuvee Tradition,2997,26.64,15.0,750,40.0
+Sensi Chianti,2498,26.645,12.5,750,33.0
+Montagnana,2499,26.656,12.5,750,36.0
+Trivento Malbec Reserve,2599,26.656,13.0,750,37.0
+Rossetti Chianti,2499,26.656,12.5,750,38.0
+El Coto Crianza,2599,26.656,13.0,750,36.0
+Silk & Spice Silk Route Smooth Red Blend,2599,26.656,13.0,750,36.0
+Ecologica Shiraz Malbec Organic Reserve,2599,26.656,13.0,750,33.0
+Bouchard Aine Pinot Noir Heritage du Conseiller,2499,26.656,12.5,750,35.0
+Apothic Dark,2799,26.657,14.0,750,38.0
+Manifesto Nero d'Avola Organic,2799,26.657,14.0,750,36.0
+Masi Passo Doble,2799,26.657,14.0,750,35.0
+Laurent Miquel Pas de Geant Syrah Grenache,2899,26.657,14.5,750,36.0
+La Baume la Jeunesse Syrah,2799,26.657,14.0,750,37.0
+Montgras Day One Cabernet Sauvignon Selected,2699,26.657,13.5,750,37.0
+Altano Douro Rewilding Edition rautt,2699,26.657,13.5,750,38.0
+Vina Eguia Crianza,2699,26.657,13.5,750,40.0
+Pepperbox Shiraz,2799,26.657,14.0,750,38.0
+Castillo Monjardin Crianza Cabernet Tempranillo Merlot,2799,26.657,14.0,750,
+Hyria Primitivo,2799,26.657,14.0,750,39.0
+Montgras Day One Merlot Selected Harvest,2699,26.657,13.5,750,37.0
+Barton & Guestier Les Galets Grenache Syrah Mourvedre les Galets,2899,26.657,14.5,750,40.0
+JP. Chenet Cabernet Syrah,649,26.697,13.0,187,34.0
+JP. Chenet Cabernet Syrah,869,26.738,13.0,250,34.0
+Berceo Tempranillo,2744,27.101,13.5,750,37.0
+I Insurgente rautt,2850,27.143,14.0,750,41.0
+Always on Friday Pinot Noir,2651,27.19,13.0,750,34.0
+Trapiche Oak Cask Malbec & Trapiche Chardonnay blandað 2x750ml í öskju,5599,27.246,13.7,1500,36.0
+Maiastru Merlot Demisec,2870,27.333,14.0,750,36.0
+Colognole Sinopie rautt,2880,27.429,14.0,750,35.0
+Orube Crianza,2880,27.429,14.0,750,38.0
+Fabiano Rosso Veronese Negraro,2882,27.448,14.0,750,36.0
+Grande Alberone Rosso,2990,27.494,14.5,750,38.0
+Espresso Wine Merlot,617,27.496,12.0,187,37.0
+Perelada 3 Finques,2888,27.505,14.0,750,35.0
+Mariana Vinho Tinto,2889,27.514,14.0,750,
+With Love Cabernet Sauvignon,2890,27.524,14.0,750,36.0
+Marques del Silvo Reserva,2789,27.546,13.5,750,39.0
+Finca Vidales Tinto,2790,27.556,13.5,750,36.0
+Fontanafredda Briccotondo Barbera,2790,27.556,13.5,750,36.0
+Vidal Fleury Cotes du Rhone,2999,27.577,14.5,750,37.0
+Angeles de Amaren Tempranillo y Graciano,2999,27.577,14.5,750,41.0
+Lamothe Vincent Heritage,2999,27.577,14.5,750,37.0
+Big Game Malbec,2999,27.577,14.5,750,40.0
+Guelbenzu Azul,2999,27.577,14.5,750,38.0
+Periquita Reserva Red Wine,2690,27.59,13.0,750,31.0
+Caparzo Sangiovese,2690,27.59,13.0,750,38.0
+Sensi Forziere Chianti Classico,2898,27.6,14.0,750,34.0
+Vinea Crianza Tempranillo,2899,27.61,14.0,750,37.0
+Flor de Crasto Vinho Tinto,2899,27.61,14.0,750,37.0
+Eloquente Selecionada,2692,27.61,13.0,750,37.0
+Bellingham Shiraz,2899,27.61,14.0,750,37.0
+Cantina di Negrar Appassimento Passito,2899,27.61,14.0,750,41.0
+Bellingham Pinotage,2899,27.61,14.0,750,38.0
+Villa Puccini Chianti Superiore,2590,27.627,12.5,750,33.0
+Paxis Red Blend,2591,27.637,12.5,750,37.0
+Apothic Red,2799,27.644,13.5,750,37.0
+Michel Lynch Merlot Cabernet Sauvignon,2799,27.644,13.5,750,34.0
+Cune Crianza,2799,27.644,13.5,750,36.0
+Apothic Cab,2799,27.644,13.5,750,38.0
+Gerard Bertrand Merlot Cite de Carcassonne,2799,27.644,13.5,750,38.0
+Novas Cabernet Sauvignon Gran Reserva,2799,27.644,13.5,750,37.0
+Campet Ste Marie GSM,2799,27.644,13.5,750,35.0
+El Holgazan,2906,27.676,14.0,750,37.0
+Riporta Nero d'Avola Small Batch,2699,27.682,13.0,750,40.0
+Ruffino Chianti,2699,27.682,13.0,750,39.0
+Yellow Tail Shiraz,699,27.689,13.5,187,35.0
+Mrs. Rabbit Pinot Noir,2599,27.723,12.5,750,38.0
+Altos Ibericos Crianza,2940,28.0,14.0,750,37.0
+Beronia Ecologico,2940,28.0,14.0,750,35.0
+Vila Real Douro Reserva rautt,2947,28.067,14.0,750,37.0
+Sensi Ninfato Sangiovese,2948,28.076,14.0,750,36.0
+Maison Castel Saint-Emilion rautt,2948,28.076,14.0,750,38.0
+Porrais Tinto,2948,28.076,14.0,750,38.0
+"Baron de Ley Reserva, Baron de Ley hvítt blandað 2x750 ml í öskju",5499,28.2,13.0,1500,39.0
+Hubert Sandhofer Merlot,2751,28.215,13.0,750,
+Rioja Vega Crianza,2973,28.314,14.0,750,36.0
+Apothic Inferno,3399,28.325,16.0,750,38.0
+Pasarisa Cabernet Sauvignon,2975,28.333,14.0,750,39.0
+Tagua Carmenere,2765,28.359,13.0,750,35.0
+Tagua Syrah,2765,28.359,13.0,750,37.0
+Zonin Velluto Appassimento,3091,28.423,14.5,750,37.0
+E.Guigal Cotes du Rhone rautt,3199,28.436,15.0,750,37.0
+Celeste Roble,2990,28.476,14.0,750,37.0
+Lua Cheia Reserva Especial Tinto,2990,28.476,14.0,750,38.0
+Vaucher Pere & Fils Cotes du Rhone rautt,2990,28.476,14.0,750,36.0
+Carm Tinto,2990,28.476,14.0,750,39.0
+600 Vinho Tinto,2990,28.476,14.0,750,36.0
+Venta del Puerto No12 Seleccion Especial,2990,28.476,14.0,750,40.0
+Baron de Ley Reserva,3099,28.497,14.5,750,39.0
+Tenuta di Sticciano Maggiano,3100,28.506,14.5,750,36.0
+Gran Feudo Reserva,2888,28.523,13.5,750,35.0
+Amicone Rosso,5990,28.524,14.0,1500,38.0
+Douro Biologico Organic Wine Tinto / Red,2889,28.533,13.5,750,
+With Love Syrah,2890,28.543,13.5,750,
+Zenato Valpolicella Superiore,2890,28.543,13.5,750,41.0
+LAN Crianza,2890,28.543,13.5,750,37.0
+Piccini Memoro rautt,1499,28.552,14.0,375,38.0
+Campo Viejo Reserva,2999,28.562,14.0,750,38.0
+Paul Jaboulet Cotes du Rhone Parallele 45 rautt,2999,28.562,14.0,750,36.0
+Castillo Monjardin Pinot Noir,2999,28.562,14.0,750,36.0
+Finca San Martin Crianza,2999,28.562,14.0,750,37.0
+Glorioso Crianza,2999,28.562,14.0,750,36.0
+Coto de Imaz Reserva,2999,28.562,14.0,750,38.0
+Morande Gran Reserva Cabernet Sauvignon Seleccion de Vinedos,2999,28.562,14.0,750,
+Purato Siccari Appassimento,2999,28.562,14.0,750,41.0
+George Wyndham Bin 555 Shiraz,2999,28.562,14.0,750,36.0
+Seleccion de Fincas,2999,28.562,14.0,750,38.0
+Chateau Eyquem,2999,28.562,14.0,750,39.0
+Marques de Caceres Crianza,2785,28.564,13.0,750,37.0
+Pete's Pure Shiraz,2790,28.615,13.0,750,38.0
+Pete's Pure Cabernet Sauvignon,2790,28.615,13.0,750,39.0
+Cantina Zaccagnini Montepulciano d'Abruzzo,2790,28.615,13.0,750,38.0
+la Bestia Governo All'uso Toscano Rosso,2899,28.632,13.5,750,40.0
+Finca Las Moras Reserva Cabernet Sauvignon Syrah,2899,28.632,13.5,750,35.0
+Santa Cristina Toscana,2899,28.632,13.5,750,36.0
+Vina Eguia Reserva,2899,28.632,13.5,750,37.0
+Pfaffl Zweigelt vom Haus,2899,28.632,13.5,750,38.0
+Valle del Maule Carmenere Malbec Terroir Wines,2899,28.632,13.5,750,40.0
+Hope Reserve Shiraz,3010,28.667,14.0,750,34.0
+Mission St. Vincent Merlot Cabernet Sauvignon,2689,28.683,12.5,750,34.0
+Beau Rivage Rouge,2689,28.683,12.5,750,31.0
+Villa Puccini Toscana,2690,28.693,12.5,750,35.0
+Escada Touriga Nacional,2690,28.693,12.5,750,37.0
+Campet Ste Marie Pinot Noir,2799,28.708,13.0,750,36.0
+Cricova Rara Neagra Orasul,2799,28.708,13.0,750,35.0
+Villa Wolf Pinot Noir,2799,28.708,13.0,750,37.0
+Rapitala Nero d'Avola,2799,28.708,13.0,750,34.0
+El Vinculo Crianza,3123,28.717,14.5,750,39.0
+Montagnana Riserva,2800,28.718,13.0,750,36.0
+Viva Valentina Sangiovese,1348,28.757,12.5,375,37.0
+Pizzolato Pinot Nero,2699,28.789,12.5,750,35.0
+Bayanegra Tempranillo,2591,28.789,12.0,750,37.0
+Tommasi Graticcio Appassionato,2699,28.789,12.5,750,38.0
+Faustino VII Tempranillo,729,28.877,13.5,187,36.0
+Beefsteak Club Malbec Beef Liberty,2820,28.923,13.0,750,37.0
+Vivanco Crianza,2939,29.027,13.5,750,38.0
+Alamos Malbec,2940,29.037,13.5,750,37.0
+Beronia Crianza,2940,29.037,13.5,750,36.0
+Monte Velho rautt,2947,29.106,13.5,750,36.0
+Wynns Coonawarra Estate Shiraz,2999,29.187,13.7,750,36.0
+Jean Loron Cotes du Rhone rautt,2960,29.235,13.5,750,37.0
+3 Passo Rosso,3078,29.314,14.0,750,41.0
+Siglo Crianza Editio Oro,2973,29.363,13.5,750,35.0
+Allegro Primitivo Organic,3085,29.381,14.0,750,42.0
+Bulas Tinto,2975,29.383,13.5,750,39.0
+Crudo Nero d'Avola Cabernet Sauvignon,3086,29.39,14.0,750,39.0
+La Croix des Lamberts,3200,29.425,14.5,750,39.0
+Chateau Camplazens La Garrigue,2986,29.491,13.5,750,39.0
+Cellier des Princes Cotes du Rhone Grande Reserve,2990,29.531,13.5,750,38.0
+Goats do Roam Red Blend,2990,29.531,13.5,750,35.0
+Italo Cescon Cabernet,2880,29.538,13.0,750,40.0
+Torre del Falasco Valpolicella Ripasso,3102,29.543,14.0,750,39.0
+Fiori Feteasca Neagra Syrah,2882,29.559,13.0,750,37.0
+CG Cantina Giardino Vino Rosso,5990,29.58,13.5,1500,37.0
+Tagua Reserva Cabernet Sauvignon,2997,29.6,13.5,750,40.0
+Diamond Hill Shiraz Merlot,999,29.6,13.5,250,31.0
+Tagua Reserva Carmenere,2997,29.6,13.5,750,40.0
+Udaca Touriga Nacional,2998,29.61,13.5,750,38.0
+Painted Wolf Guillermo Pinotage,2999,29.62,13.5,750,40.0
+Gerard Bertrand Cabernet Sauvignon An 940,2999,29.62,13.5,750,36.0
+Carnivor Cabernet Sauvignon,2999,29.62,13.5,750,37.0
+Gerard Bertrand Pinot Noir An 940,2999,29.62,13.5,750,37.0
+Gerard Bertrand Cabernet Sauvignon Reserve Special,2999,29.62,13.5,750,36.0
+Just Fucking Good Wine rautt,2999,29.62,13.5,750,37.0
+Diablo Black Cabernet Sauvignon,2999,29.62,13.5,750,40.0
+Castelmondo Valpolicella Ripasso,2999,29.62,13.5,750,37.0
+Chateau L'Evasion Medoc,2999,29.62,13.5,750,34.0
+Morande Gran Reserva Pinot Noir Seleccion de Vinedos,2999,29.62,13.5,750,
+Marani Saperavi,2999,29.62,13.5,750,37.0
+Chateau Goumin,2999,29.62,13.5,750,34.0
+Montalto Nero d'Avola,749,29.669,13.5,187,36.0
+Geggiano Pontignano Chianti Classico,2899,29.733,13.0,750,34.0
+Poggio al Casone Chianti Superiore,2799,29.856,12.5,750,36.0
+Tommasi Valpolicella,2699,29.989,12.0,750,43.0
+Valli Unite Vino Rosso Biologico,21090,30.129,14.0,5000,39.0
+Gerard Bertrand Tautavel  An 560 Cotes du Roussillon V.,3399,30.213,15.0,750,38.0
+Costaripa Mazane Marzemino,2947,30.226,13.0,750,36.0
+Peter Lehmann Portrait Shiraz,3299,30.336,14.5,750,37.0
+M. Chapoutier Belleruche Rouge,3299,30.336,14.5,750,37.0
+Mimetic Vino Tinto,3300,30.345,14.5,750,42.0
+Yoga Syrah Organic,3189,30.371,14.0,750,35.0
+Marques de Grinon Clasico,3189,30.371,14.0,750,38.0
+Cocoon Zinfandel,3189,30.371,14.0,750,39.0
+Hubert Sandhofer Nero Frizzante,2620,30.377,11.5,750,
+Familia Valdelana Reserva,3190,30.381,14.0,750,41.0
+Berceo Crianza,3085,30.469,13.5,750,35.0
+Castillo del Moro Tempranillo Syrah,2982,30.585,13.0,750,35.0
+Montecillo Reserva,3099,30.607,13.5,750,39.0
+Dehesa La Granja,3333,30.648,14.5,750,39.0
+Mas Pujol L'Originel,2989,30.656,13.0,750,37.0
+Plantey de Lieu Jean Rouge,2990,30.667,13.0,750,36.0
+Chateau Haut Pougnan rautt,2990,30.667,13.0,750,35.0
+Cecchi Toscana Sangiovese,2990,30.667,13.0,750,35.0
+Nativ Rue Dell Inchiostro,3222,30.686,14.0,750,38.0
+Udaca Tinto,1498,30.728,13.0,375,32.0
+Kiss of Wine Tempranillo,999,30.738,13.0,250,37.0
+Vicar's Choice Pinot Noir,2999,30.759,13.0,750,36.0
+Gerard Bertrand Pinot Noir Reserve Speciale,2999,30.759,13.0,750,37.0
+Tommasi Merlot Le Prunee,2999,30.759,13.0,750,36.0
+Patrizi Passo del Bricco Rosso,2999,30.759,13.0,750,39.0
+Hillside Valley Ruby Cabernet,2999,30.759,13.0,750,33.0
+Gerard Bertrand cote des roses Pinot Noir,2999,30.759,13.0,750,37.0
+Tommasi Il Tinto Rosso,2999,30.759,13.0,750,34.0
+Farina Appassilento Rosso,2999,30.759,13.0,750,38.0
+Marques del Silvo Gran Reserva,3237,30.829,14.0,750,39.0
+Morande Pionero Reserva Cabernet Sauvignon,780,30.897,13.5,187,33.0
+Vicar's Choice Merlot,2899,30.923,12.5,750,35.0
+Fontanafredda Raimonda Barbera d'Alba,3480,30.933,15.0,750,36.0
+Quinta do Caleiro Reserva,3144,31.052,13.5,750,36.0
+Ciu Ciu Piceno Bacchus,3144,31.052,13.5,750,38.0
+Andreza Reserva Tinto,3150,31.111,13.5,750,38.0
+Luis Canas Crianza,3390,31.172,14.5,750,38.0
+El Coche Vino Tinto,3275,31.19,14.0,750,23.0
+Chateau Barrabaque Hugo,3392,31.191,14.5,750,40.0
+Cantine Povero batu Barbaresco,3398,31.246,14.5,750,41.0
+Campillo Reserva,3399,31.255,14.5,750,38.0
+Fiorino Sangiovese,3399,31.255,14.5,750,38.0
+Museum Reserva,3399,31.255,14.5,750,40.0
+Nederburg Manor House Cabernet Sauvignon,3399,31.255,14.5,750,36.0
+Real Agrado Reserva,3400,31.264,14.5,750,38.0
+Pasqua Morago Appassite Black Label,3290,31.333,14.0,750,39.0
+cinema tempranillo 6 meses en barrica,3412,31.375,14.5,750,35.0
+Pariondo Valpolicella Ripasso Classico Superiore,3299,31.419,14.0,750,40.0
+Peter Lehmann Portrait Cabernet,3299,31.419,14.0,750,37.0
+Altanza Reserva,3299,31.419,14.0,750,39.0
+Lealtanza Unico 12 Meses Robel Frances Crianza,3299,31.419,14.0,750,41.0
+Cerro Anon Reserva,3299,31.419,14.0,750,40.0
+Borgo Scopeto Chianti Classico,3190,31.506,13.5,750,37.0
+Cantina La Selva Avorio Rosso,3190,31.506,13.5,750,35.0
+Vivera Terra dei Sogni Rosso,3195,31.556,13.5,750,38.0
+Fondo Antico Le Clay Syrah,3316,31.581,14.0,750,40.0
+Fondo Antico Nene Nero d'Avola,3316,31.581,14.0,750,39.0
+Purato Nero d'Avola,1599,31.585,13.5,375,36.0
+Faustino VII Tempranillo,1599,31.585,13.5,375,36.0
+Chateau Bois de Rolland Vieilles Vignes,3199,31.595,13.5,750,39.0
+Campo Maccione Morellino di Scansano,3199,31.595,13.5,750,35.0
+Sasyr Sangiovese Syrah,3199,31.595,13.5,750,38.0
+Beronia Crianza,799,31.65,13.5,187,36.0
+Nice Malbec,799,31.65,13.5,187,38.0
+Underwood Pinot Noir,1548,31.754,13.0,375,35.0
+Masi Campofiorin,3099,31.785,13.0,750,37.0
+Chateau Gros Moulin,3459,31.807,14.5,750,36.0
+Angus The Bull Cabernet Sauvignon,3340,31.81,14.0,750,37.0
+Scuri Pinot Nero,2990,31.893,12.5,750,37.0
+Tyto alba Tinto,3350,31.905,14.0,750,38.0
+Vila Real Premium Douro rautt,3350,31.905,14.0,750,37.0
+Louis Latour Valmoissine Pinot Noir,2999,31.989,12.5,750,37.0
+Pasqua Valpolicella Black Label,2999,31.989,12.5,750,41.0
+Ceppaiano Alle Viole,2999,31.989,12.5,750,38.0
+Tommasi Rafael Valpolicella,2999,31.989,12.5,750,39.0
+19 Crimes Cali Red Snoop Dogg,2999,31.989,12.5,750,37.0
+Kakabadze Pirosmani Red Semi Dry,2999,31.989,12.5,750,38.0
+Terratini Primitivo di Manduria,3599,31.991,15.0,750,40.0
+Balestino Tempranillo Selecion Privada,3489,32.083,14.5,750,33.0
+Tautor Primitivo di Manduria,3489,32.083,14.5,750,42.0
+Bontadini Negroamaro,3489,32.083,14.5,750,36.0
+Torres Gran Coronas Cabernet Sauvignon,3490,32.092,14.5,750,38.0
+Vicente Gandia Raiza Crianza Tempranillo,3375,32.143,14.0,750,33.0
+Juan Gil Yellow Label,3498,32.166,14.5,750,38.0
+Matsu El Recio,3498,32.166,14.5,750,41.0
+Beats the Devil Premium Shiraz,3498,32.166,14.5,750,36.0
+La Maset de Lumet Syrah Malbec Merlot,3498,32.166,14.5,750,38.0
+Altano Douro Reserva rautt,3498,32.166,14.5,750,38.0
+Mafi Rosso,3498,32.166,14.5,750,37.0
+Meinklang Burgenlandrot,2895,32.167,12.0,750,37.0
+Olivier Lafont Lirac,3499,32.175,14.5,750,36.0
+Columbia Crest Cabernet Sauvignon Grand Estates,3499,32.175,14.5,750,37.0
+Marques de Casa Concha Cabernet Sauvignon,3499,32.175,14.5,750,39.0
+Museum Reserva Magnum í öskju,6998,32.175,14.5,1500,41.0
+Luis Canas Reserva Magnum í trékassa,6999,32.179,14.5,1500,40.0
+Brunelli Valpolicella Classico Superiore,3150,32.308,13.0,750,40.0
+glárima de Sommos Merlot Tempranillo,3275,32.346,13.5,750,34.0
+Villa des Anges Reserve,3399,32.371,14.0,750,41.0
+Ramon Bilbao Reserva,3399,32.371,14.0,750,40.0
+Piccini Memoro Vintage,3399,32.371,14.0,750,38.0
+Cune Reserva,3399,32.371,14.0,750,38.0
+La Planta Tempranillo,3399,32.371,14.0,750,36.0
+Faustino Reserva,3399,32.371,14.0,750,41.0
+Carodorum Issos Crianza,3650,32.444,15.0,750,38.0
+Adro Da Se Reserva,3168,32.492,13.0,750,38.0
+Heras Cordon Vendimia Seleccionada Crianza,3421,32.581,14.0,750,39.0
+Rocca delle Macie Chianti Classico,3299,32.583,13.5,750,37.0
+Real Agrado VA,3300,32.593,13.5,750,38.0
+Guelbenzu Evo,3555,32.69,14.5,750,39.0
+Scuri Cabernet Sauvignon,3190,32.718,13.0,750,39.0
+Koncho Aleksandrouli Red dry,3196,32.779,13.0,750,36.0
+Los Espinos Reserva Merlot,3199,32.81,13.0,750,
+Chateau Tour du Moulin les Terres Rouges Fronsac,3322,32.81,13.5,750,40.0
+Campo del Re Primitivo Merlot,3574,32.864,14.5,750,40.0
+"LAN Crianza, LAN Reserva, LAN Gran Reserva í trékassa",9990,32.889,13.5,2250,40.0
+Chateau de Seguin,3340,32.988,13.5,750,36.0
+Torri d'Oro Primitivo di Manduria,3589,33.002,14.5,750,41.0
+Lunadoro Vino Nobile di Montepulciano,3590,33.011,14.5,750,40.0
+Columbia Crest Grand Estates Merlot,3595,33.057,14.5,750,37.0
+Kir-Yianni Naoussa,3471,33.057,14.0,750,37.0
+Campo Viejo Reserva & Campo Viejo Tempranillo,6699,33.081,13.5,1500,38.0
+Jacob's Creek Chardonnay & Shiraz Cabernet,6699,33.081,13.5,1500,34.0
+Riunite Lambrusco,495,33.088,8.0,187,38.0
+Pievasciata Rosso,3599,33.094,14.5,750,41.0
+Bacio Rosso Primitivo,3599,33.094,14.5,750,40.0
+Finca Las Moras Black Label Malbec,3599,33.094,14.5,750,39.0
+Chateau de Janicon Graves Rouge,3229,33.118,13.0,750,40.0
+Marques de Caceres Reserva,3480,33.143,14.0,750,39.0
+Herdade do Rocim Vinho Tinto,3489,33.229,14.0,750,39.0
+Zuccardi Malbec Serie A,3489,33.229,14.0,750,38.0
+Marques de la Concordia Crianza Rioja Santiago,3489,33.229,14.0,750,37.0
+Clos Ancestral Vi Ecologic,3490,33.238,14.0,750,38.0
+Beronia Crianza,1685,33.284,13.5,375,36.0
+Beronia Tempranillo,3495,33.286,14.0,750,38.0
+Kiss of Wine Dolcetto,999,33.3,12.0,250,38.0
+Andres Iniesta Corazon Loco Bobal,3497,33.305,14.0,750,36.0
+Diamante Crianza,3498,33.314,14.0,750,36.0
+Kakabadze Kindzmarauli Red Semi Sweet,2999,33.322,12.0,750,38.0
+Succes la Cuca de Llum,2999,33.322,12.0,750,37.0
+Ammasso,3499,33.324,14.0,750,42.0
+Marques de Casa Concha Merlot,3499,33.324,14.0,750,39.0
+Montgras Antu Cabernet Sauvignon Single Vineyard,3499,33.324,14.0,750,38.0
+Instant Becot,3499,33.324,14.0,750,36.0
+Montgras Antu Pinot Noir Single Vineyard,3499,33.324,14.0,750,37.0
+Les Darons Languedoc by Jeff Carrel,3500,33.333,14.0,750,38.0
+Quattronotti Appassimento Negroamaro,3629,33.37,14.5,750,41.0
+Donnafugata Sedara,3390,33.481,13.5,750,36.0
+Jorio Montepulciano d'Abruzzo,3390,33.481,13.5,750,36.0
+Marques de la Concordia Rioja Santiago,3390,33.481,13.5,750,37.0
+LAN Reserva,3390,33.481,13.5,750,39.0
+El Reflejo de Mikaela Bobal,3770,33.511,15.0,750,38.0
+Duas Quintas Tinto,3519,33.514,14.0,750,39.0
+La Celestina Crianza,3646,33.526,14.5,750,38.0
+Salvaje Syrah Roussanne,3399,33.57,13.5,750,36.0
+Il Carnevali Sangiovese Primitivo,3399,33.57,13.5,750,
+Louis Jadot Beaujolais Villages Combe aux Jacques,3399,33.57,13.5,750,37.0
+Hubert Sandhofer St. Laurent Eisner,3275,33.59,13.0,750,
+Hubert Sandhofer Rosenberg K.G.,3275,33.59,13.0,750,
+Tbilvino Saperavi,3275,33.59,13.0,750,38.0
+Fondo Antico Per Te Perricone,3153,33.632,12.5,750,37.0
+Beefsteak Club Malbec Estate Bottled,3409,33.669,13.5,750,37.0
+Altitud Garnacha Sierra de Gredos,3791,33.698,15.0,750,38.0
+Malacara Malbec,3589,33.7,14.2,750,39.0
+Perelada 5 Finques Reserva,3666,33.71,14.5,750,41.0
+Baby Bad Boy rautt,3290,33.744,13.0,750,36.0
+Girlan 448 Rosso,3290,33.744,13.0,750,35.0
+Koncho Kindzmarauli Red semi sweet,3294,33.785,13.0,750,39.0
+Gerard Bertrand Pic Saint-Loup,3299,33.836,13.0,750,38.0
+Mommessin Beaujolais-Villages,3299,33.836,13.0,750,35.0
+Fletris Appassimento Primitivo Barrel Aged,3683,33.867,14.5,750,
+Fiorino Rosso,3690,33.931,14.5,750,38.0
+Ratti Battaglione Barbera,3690,33.931,14.5,750,39.0
+Hess Select Treo Winemaker's Blend Red Wine,3699,34.014,14.5,750,38.0
+Peter Lehmann The Barossan Grenache,3699,34.014,14.5,750,38.0
+Prima,3699,34.014,14.5,750,36.0
+Cameleon merlot & cabernet sauvignon &,3598,34.024,14.1,750,35.0
+Andres Iniesta Corazon Loco Syrah Tempranillo,3445,34.025,13.5,750,34.0
+Chronic Cellars Red Blend Purple Paradise,3790,34.144,14.8,750,38.0
+Chronic Cellars Petite Sirah Suite Petite,3790,34.144,14.8,750,38.0
+Vinyes Ocults Malbec,3690,34.167,14.4,750,39.0
+The Goatfather,3590,34.19,14.0,750,34.0
+La Bette by Jeff Carrel,3599,34.276,14.0,750,38.0
+Trapiche Medalla Cabernet Sauvignon,3599,34.276,14.0,750,39.0
+Man Meets Mountain Malbec,3603,34.314,14.0,750,37.0
+Formiga de Vellut,3733,34.326,14.5,750,39.0
+Marques de Grinon Caliza,3864,34.347,15.0,750,38.0
+Chateau Beausejour Cuvee Prestige,3999,34.4,15.5,750,37.0
+Catena Malbec,3490,34.469,13.5,750,40.0
+Celeste Crianza,3750,34.483,14.5,750,39.0
+Monte da Raposinha Reserva,3751,34.492,14.5,750,39.0
+Gustave Lorentz Evidence Pinot Noir,3495,34.519,13.5,750,38.0
+Roccamora negroamaro,3495,34.519,13.5,750,40.0
+Villa Girardi Bure Alto Ripasso,3495,34.519,13.5,750,39.0
+Musar Jeune,3498,34.548,13.5,750,38.0
+Chateau Corconnac,3498,34.548,13.5,750,36.0
+Bread & Butter Pinot Noir,3499,34.558,13.5,750,40.0
+Podere Brizio Rosso di Montalcino,3499,34.558,13.5,750,38.0
+Campo Viejo Gran Reserva,3499,34.558,13.5,750,39.0
+Montgras Antu Cabernet Sauvignon Carmenere,3499,34.558,13.5,750,38.0
+"Tommasi Adorato, Tommasi Graticcio",6499,34.661,12.5,1500,38.0
+Poggioargentiera  Bellamarsilia,3770,34.667,14.5,750,36.0
+Le Gardeta Garnacha Single Vineyard,3777,34.731,14.5,750,38.0
+Beronia Reserva,3650,34.762,14.0,750,40.0
+Think Big Great Zinfandel Vat.66,3789,34.841,14.5,750,38.0
+Cillar Tempranillo,3790,34.851,14.5,750,37.0
+Sensi Forziere Riserva Chianti Classico,3398,34.851,13.0,750,34.0
+Luis Canas Reserva,3790,34.851,14.5,750,40.0
+Peter Lehmann The Barossan Shiraz,3798,34.924,14.5,750,39.0
+Montes Alpha Cabernet Sauvignon,3798,34.924,14.5,750,39.0
+Montes Alpha Carmenere,3798,34.924,14.5,750,40.0
+Nederburg The Motorcycle Marvel rautt,3798,34.924,14.5,750,39.0
+Umberto Cesari iove rautt og hvítt,6559,34.981,12.5,1500,36.0
+Poggioargentiera Maremmante,3547,35.032,13.5,750,35.0
+Joel Gott Zinfandel,3790,35.093,14.4,750,38.0
+Venta del Puerto No 18,3690,35.143,14.0,750,40.0
+Hillside Valley Zinfandel Black Label,3690,35.143,14.0,750,37.0
+Chateau Lys de Maisonneuve,3696,35.2,14.0,750,41.0
+Trivento Golden Reserve Malbec,3699,35.229,14.0,750,39.0
+Villa Antinori rautt,3699,35.229,14.0,750,38.0
+Dievole Chianti Classico,3699,35.229,14.0,750,38.0
+Chronic Cellars Cabernet Sauvignon Sir Real,3790,35.338,14.3,750,39.0
+Mouton Cadet Rouge,1790,35.358,13.5,375,35.0
+Danza Delle Spade,3850,35.402,14.5,750,40.0
+Les Legendes R Medoc,3589,35.447,13.5,750,37.0
+Fairview Grenache Noir,3590,35.457,13.5,750,35.0
+Vina Eguia Gran Reserva,3590,35.457,13.5,750,35.0
+Ca'della Scala Mezzopiano Ripasso,3590,35.457,13.5,750,42.0
+Camparo Sara Barbera d'Alba,3990,35.467,15.0,750,39.0
+Tesouro Da Se Private Selection Tinto,3595,35.506,13.5,750,39.0
+De Grendel Merlot,3864,35.531,14.5,750,38.0
+Murphy Goode Pinot Noir,3598,35.536,13.5,750,37.0
+Casisano Rosso di Montalcino,3599,35.546,13.5,750,37.0
+Rapaura Reserve Pinot Noir,3599,35.546,13.5,750,37.0
+Chateau L'Hospitalet La Reserve,3999,35.547,15.0,750,40.0
+Los Vascos Cromas Cabernet Sauvignon Gran Reserva,3889,35.761,14.5,750,38.0
+Carm Reserva Tinto Family Vineyards,3890,35.77,14.5,750,39.0
+Koncho Mukuzani Red dry,3489,35.785,13.0,750,37.0
+Durbanville Hills The Promenade Pinotage,3899,35.853,14.5,750,41.0
+Castello di Querceto Chianti Classico,3498,35.877,13.0,750,37.0
+Andres Iniesta Corazon Loco Premium,3916,36.009,14.5,750,40.0
+Italo Cescon Cabernet,1690,36.053,12.5,375,40.0
+Zanettini Corvina Apassemento,3789,36.086,14.0,750,36.0
+Swartland Pinotage Winemaker's Collection,3789,36.086,14.0,750,35.0
+Swartland Cabernet Sauvignon Winemaker's Collection,3789,36.086,14.0,750,34.0
+Swartland Syrah Winemaker's Collection,3789,36.086,14.0,750,35.0
+La Pisadas Cosecha,3791,36.105,14.0,750,31.0
+Chateau Timberlay Merlot Cabernet Sauvignon,3798,36.171,14.0,750,35.0
+Glorioso Reserva,3798,36.171,14.0,750,38.0
+Lopez de Haro Gran Reserva,3798,36.171,14.0,750,40.0
+Escorihuela Gascon Malbec,3798,36.171,14.0,750,39.0
+Crasto Superior,3799,36.181,14.0,750,41.0
+Finca del Marquesado Seleccion,3799,36.181,14.0,750,40.0
+Vallepicciola Chianti Classico,3799,36.181,14.0,750,40.0
+Vina Real Reserva,3799,36.181,14.0,750,38.0
+Beck Blaufrankisch,3399,36.256,12.5,750,39.0
+Boutinot La Cote Sauvage Cairanne,3949,36.313,14.5,750,41.0
+Pasqua Ripasso,3690,36.444,13.5,750,38.0
+de Alto amo Crianza,3698,36.523,13.5,750,40.0
+Morande Vitis Unica Cabernet Sauvignon,3699,36.533,13.5,750,40.0
+Hess Select Cabernet Sauvignon,3699,36.533,13.5,750,38.0
+Montecillo Edicion Limitada,3699,36.533,13.5,750,40.0
+Gonzalo de Berceo Reserva,3844,36.61,14.0,750,38.0
+2019 Corbucci 9 Code Chianti,3982,36.616,14.5,750,40.0
+"Muga Reserva, Muga hvítt, Muga rósavín",11299,36.655,13.7,2250,42.0
+Castello di Querceto Chianti Classico,1787,36.656,13.0,375,37.0
+Guelbenzu Lombana,3987,36.662,14.5,750,41.0
+Mouton Cadet Rouge,926,36.681,13.5,187,35.0
+Tua Rita Rosso dei Notri,3990,36.69,14.5,750,38.0
+Cosi Langhe Nebbiolo,3990,36.69,14.5,750,35.0
+Sidus Tenuta Pianirossi Montecucco,3990,36.69,14.5,750,38.0
+Chateau Ste Michelle Indian Wells Cabernet Sauvignon,3990,36.69,14.5,750,40.0
+crescendo vinho tinto,3990,36.69,14.5,750,
+Banfi Cum Laude,3990,36.69,14.5,750,39.0
+I Domi,3991,36.699,14.5,750,38.0
+The Chocolate Block,3995,36.736,14.5,750,42.0
+Malacara Oak Cask Red Blend,3995,36.736,14.5,750,39.0
+La Posta Glorieta Pinot Noir,3667,36.762,13.3,750,37.0
+La Provincia Tempranillo y Garnacha,3999,36.772,14.5,750,35.0
+Marques de Casa Concha Etiqueta Negra,3999,36.772,14.5,750,42.0
+1000 Stories Zinfandel,3999,36.772,14.5,750,41.0
+Kendall Jackson Vintner's Reserve Pinot Noir,3999,36.772,14.5,750,37.0
+1000 Stories Cabernet Sauvignon,3999,36.772,14.5,750,40.0
+Trapiche Gran Medalla Malbec,3999,36.772,14.5,750,42.0
+Protos Crianza,3999,36.772,14.5,750,39.0
+Altos Ibericos Reserva,3999,36.772,14.5,750,38.0
+1000 Stories Pinot Noir American Barrel Aged,3999,36.772,14.5,750,
+Chateau Camplazens Premium La Clape,4152,36.907,15.0,750,41.0
+A Vue De Nez by Jeff Carrel,3599,36.913,13.0,750,36.0
+Zenato Ripassa Superiore,3890,37.048,14.0,750,41.0
+Ama Mi Primitivo,3758,37.116,13.5,750,36.0
+Glen Carlou Syrah,3899,37.133,14.0,750,38.0
+Massolino Barbera d'Alba,3899,37.133,14.0,750,39.0
+Glen Carlou Cabernet Sauvignon,3899,37.133,14.0,750,38.0
+Conde Valdemar Reserva,3899,37.133,14.0,750,39.0
+Lacerta Cabernet Sauvignon Reserva,3994,37.24,14.3,750,39.0
+Elouan Pinot Noir,3800,37.255,13.6,750,40.0
+Francois Martenot Bourgogne Pinot Noir,3499,37.323,12.5,750,33.0
+marta mate,3924,37.371,14.0,750,35.0
+Rioja Vega Reserva,3928,37.41,14.0,750,38.0
+Heras Cordon Reserva Red Wine,3928,37.41,14.0,750,40.0
+Nals Margreid Angra Pinot Noir,3929,37.419,14.0,750,38.0
+Tenuta di Sticciano Chianti Riserva,3929,37.419,14.0,750,40.0
+Les Vacances Val de Combres,3649,37.426,13.0,750,40.0
+Maiastru Cabernet Sauvignon,1310,37.429,14.0,250,35.0
+Valdibella Kerasos Nero d'Avola,3790,37.432,13.5,750,36.0
+Marani Saperavi Traditional Qvevri Wine,3796,37.491,13.5,750,38.0
+Antinori Peppoli,3798,37.511,13.5,750,38.0
+Escorihuela Gascon 1884 Sangiovese,3798,37.511,13.5,750,38.0
+Callejon del Crimen Reserva Malbec,3995,37.512,14.2,750,39.0
+Tommasi Ripasso,3799,37.521,13.5,750,40.0
+Meinklang Roter Mulatschak,3099,37.564,11.0,750,40.0
+cinema crianza,4228,37.582,15.0,750,37.0
+Carodorum Vino de Autor Crianza,4229,37.591,15.0,750,
+Montespada Cannonau,3667,37.61,13.0,750,38.0
+Uivo Renegado Vinho Tinto,3250,37.681,11.5,750,36.0
+Meinklang Blaufrankisch,3250,37.681,11.5,750,36.0
+Peter Lehmann Futures Shiraz,4098,37.683,14.5,750,38.0
+Áster Crianza,4099,37.692,14.5,750,39.0
+Tavros Primitivo di Manduria,4102,37.72,14.5,750,42.0
+Lapostolle Cuvee Alexandre Cabernet Sauvignon,4110,37.793,14.5,750,39.0
+Condado de Haza Crianza,4111,37.802,14.5,750,38.0
+Bovin Kleopatra Cabernet Franc,3694,37.887,13.0,750,40.0
+Zuccardi Q Malbec,3979,37.895,14.0,750,39.0
+Ricasoli Brolio,3980,37.905,14.0,750,37.0
+Le Fiston Terres du Midi by Jeff Carrel,3699,37.938,13.0,750,36.0
+Marques de la Concordia Reserva Rioja Santiago,3990,38.0,14.0,750,40.0
+Babylon's Peak Shiraz Carignan,3990,38.0,14.0,750,38.0
+LAN Gran Reserva,3990,38.0,14.0,750,40.0
+Armentino negroamaro e primitivo,3995,38.048,14.0,750,39.0
+Maggio Barolo,3998,38.076,14.0,750,39.0
+Privatkeller Cabernet Merlot,3998,38.076,14.0,750,39.0
+Cune Gran Reserva,3999,38.086,14.0,750,40.0
+Carm Natural Vinho Tinto Family Vineyards,3999,38.086,14.0,750,39.0
+Bellingham Bernard Series Bush Vine Pinotage,3999,38.086,14.0,750,41.0
+Masi Brolo Campofiorin,3999,38.086,14.0,750,38.0
+Bellingham Bernard Series Basket Press Syrah,3999,38.086,14.0,750,41.0
+Cerro Anon Gran Reserva,3999,38.086,14.0,750,42.0
+Emiliana Coyam,3999,38.086,14.0,750,42.0
+Camino Dominio Romano Tinto Fino,3999,38.086,14.0,750,36.0
+Ricossa Barbaresco,3999,38.086,14.0,750,37.0
+Bad Boy Garage l'Original,4290,38.133,15.0,750,38.0
+Alessandrino Vino Rosso,3590,38.293,12.5,750,
+J. Lohr Falcon's Perch Pinot Noir,3999,38.36,13.9,750,37.0
+J. Lohr Seven Oaks Cabernet Sauvignon,3999,38.36,13.9,750,40.0
+Licenciado Reserva,3890,38.42,13.5,750,38.0
+Allegrini Palazzo della Torre,3890,38.42,13.5,750,40.0
+Le Renard Pinot Noir,3890,38.42,13.5,750,36.0
+Umberto Cesari Moma rautt og hvítt,7499,38.456,13.0,1500,38.0
+Vallepicciola Chianti Classico,1950,38.519,13.5,375,40.0
+Campillo Reserva Coleccion,4199,38.611,14.5,750,40.0
+Roca del Crit Vino Tinto,4200,38.621,14.5,750,33.0
+Ceci Lambrusco 1813 Vino Frizzante,3196,38.739,11.0,750,
+Master of None,3929,38.805,13.5,750,40.0
+La Chaize Morgon,3929,38.805,13.5,750,39.0
+Puszta Libre rauðvín,3350,38.841,11.5,750,41.0
+Alphart Pinot Noir Vom Berg,3499,38.878,12.0,750,37.0
+Ecoltura Valpolicella,3500,38.889,12.0,750,35.0
+Nativ Blu Onice,4389,39.013,15.0,750,42.0
+Parada de Atauta,4390,39.022,15.0,750,40.0
+Vernice Mohair Sciascinoso,4245,39.034,14.5,750,42.0
+Volpaia rautt,4101,39.057,14.0,750,38.0
+Ceci Lambrusco 1813 Amabile Vino Frizzante,2490,39.059,8.5,750,38.0
+Jordan Black Magic Merlot,3979,39.299,13.5,750,38.0
+Secret del Priorat,3990,39.407,13.5,750,40.0
+Aresti Series Trisquel Merlot,3990,39.407,13.5,750,40.0
+Primus The Blend,3990,39.407,13.5,750,38.0
+Banfi Chianti Classico Riserva,3990,39.407,13.5,750,38.0
+Chateau de Manissy Oracle rautt,3995,39.457,13.5,750,35.0
+Wixo Sangiovese,849,39.479,11.5,187,36.0
+Tommasi Ripasso,1999,39.486,13.5,375,40.0
+Montecillo Gran Reserva,3999,39.496,13.5,750,39.0
+Bava Langhe Nebbiolo,3999,39.496,13.5,750,38.0
+Chateau Ste Michelle Cabernet Sauvignon,3999,39.496,13.5,750,38.0
+Point De Vue by Jeff Carrel,3999,39.496,13.5,750,39.0
+Marques de Casa Concha Chardonnay & Cabernet blandað 2x750 ml í öskju,8299,39.519,14.0,1500,39.0
+Glen Carlou Grand Classique,4299,39.531,14.5,750,39.0
+Roquette & Cazes,4299,39.531,14.5,750,
+Chateau Beaumont,4321,39.733,14.5,750,38.0
+Antieri susumaniello,4494,39.947,15.0,750,43.0
+Altanza Reserva,2099,39.981,14.0,375,39.0
+Antiche Terre Amarone della Valpolicella Baorna,4498,39.982,15.0,750,42.0
+Cantine Povero Priore Barolo,4348,39.982,14.5,750,42.0
+Ruffino Riserva Ducale Chianti Classico,4199,39.99,14.0,750,39.0
+Louis M Martini Cabernet Sauvignon,4199,39.99,14.0,750,38.0
+Coto de Imaz Gran Reserva,4199,39.99,14.0,750,41.0
+Barahonda Summum,4499,39.991,15.0,750,42.0
+Juan Gil Silver Label,4499,39.991,15.0,750,40.0
+Chateau des Combes Saint Emilion Grand Cru,4499,39.991,15.0,750,40.0
+Domaine de Villemajou Corbieres Boutenac,4499,39.991,15.0,750,39.0
+"Tommasi Ripasso,Tommasi Pinot Grigio Le Rosse",7799,39.995,13.0,1500,37.0
+La Cetate Merlot,4377,40.248,14.5,750,37.0
+Saint Clair Pioneer Block 17 Syrah,3799,40.523,12.5,750,37.0
+Banfi Belnero,4419,40.634,14.5,750,38.0
+Bulas Reserva Tinto,4275,40.714,14.0,750,39.0
+Pesquera Crianza,4444,40.864,14.5,750,40.0
+Casalforte Amarone,4598,40.871,15.0,750,41.0
+Pierre Ponnelle Pinot Noir,3990,40.923,13.0,750,34.0
+Valdibella Agape Nerello Mascalese,3990,40.923,13.0,750,
+Albert Bichot Secret de Famille Pinot Noir,3990,40.923,13.0,750,37.0
+Cirelli la Collina Montepulciano d'Abruzzo,3990,40.923,13.0,750,34.0
+Altanza Gran Reserva,4299,40.943,14.0,750,40.0
+Louis Jadot Couvent des Jacobins Pinot Noir,3999,41.015,13.0,750,37.0
+Tommasi Ripasso Magnum,7999,41.021,13.0,1500,40.0
+Joseph Drouhin Morgon,4007,41.097,13.0,750,37.0
+Escorihuela Gascon Gran Reserva Malbec,4335,41.286,14.0,750,42.0
+Marques de Riscal Reserva,4490,41.287,14.5,750,41.0
+Crasto Superior Syrah,4499,41.37,14.5,750,43.0
+Baron de Ley Finca Monasterio,4499,41.37,14.5,750,41.0
+Fattoria La Vialla Casa Conforto Chianti Superiore,4190,41.383,13.5,750,36.0
+Le fole Campania Aglianico,4190,41.383,13.5,750,37.0
+Cellier des Princes Chateauneuf du Pape,4990,41.583,16.0,750,40.0
+MacMurray Estate Russian River Pinot Noir,4698,41.76,15.0,750,38.0
+Lacerta Merlot,4700,41.778,15.0,750,38.0
+Lomond Syrah,4390,41.81,14.0,750,38.0
+Baron de Ley Gran Reserva,4398,41.886,14.0,750,41.0
+Chateau Tour de Capet,4399,41.895,14.0,750,39.0
+Hubert Sandhofer Blaufrankisch Reserve,4244,41.916,13.5,750,35.0
+Pessimist by Daou,4567,41.995,14.5,750,40.0
+Castello di Querceto Riserva Chianti Classico,4259,42.064,13.5,750,38.0
+Murphy Goode Liar's Dice Zinfandel,4899,42.142,15.5,750,40.0
+Freakshow Cabernet Sauvignon,4591,42.216,14.5,750,39.0
+Ratti Ochetti Nebbiolo Magnum,8880,42.286,14.0,1500,39.0
+Tedeschi Maternigo Valpolicella Superiore,4601,42.308,14.5,750,40.0
+Banfi La Lus Albarossa,4450,42.381,14.0,750,40.0
+La Spinetta Casanova Chianti Riserva,4453,42.41,14.0,750,39.0
+Fonterutoli Chianti Classico,4299,42.459,13.5,750,39.0
+Villa Locatelli Refosco dal Peduncolo Rosso,3990,42.56,12.5,750,34.0
+Ratti Ochetti Nebbiolo,4490,42.762,14.0,750,39.0
+Torres Salmos Priorat,4490,42.762,14.0,750,41.0
+Fattoria La Vialla Torbolone Rosso,4490,42.762,14.0,750,36.0
+Marani Khvanchkara,3695,42.841,11.5,750,42.0
+Chateau Haut Chaigneau,4499,42.848,14.0,750,40.0
+Chateau Ducluzeau,4499,42.848,14.0,750,39.0
+Baron de Ley Finca Monasterio Magnum,8998,42.848,14.0,1500,41.0
+Chateau des Jacques Moulin a Vent,4499,42.848,14.0,750,39.0
+Monsanto Chianti Classico,4499,42.848,14.0,750,39.0
+Nals Margreid Rieser St. Magdalener,4191,42.985,13.0,750,35.0
+Lacerta Feteasca Neagra,4514,42.99,14.0,750,38.0
+Umberto Cesari Moma Sangiovese Cabernet Sauvignon,2098,43.036,13.0,375,41.0
+Jean Loron Bourgogne Pinot Noir,4199,43.067,13.0,750,35.0
+Beyond Big The One Cab Sauvignon Vat.08,4690,43.126,14.5,750,38.0
+Muga Reserva,4699,43.209,14.5,750,42.0
+Muga Reserva,9399,43.214,14.5,1500,42.0
+Litrozzo vino rosso,5190,43.25,12.0,1000,38.0
+Grey Cabernet Sauvignon Single Block,4388,43.338,13.5,750,45.0
+Grey Pinot Noir Single Block,4388,43.338,13.5,750,38.0
+"Cubardi primitivo, Ambace Fiano Chardonnay blandað 2x750ml í öskju",8990,43.43,13.8,1500,38.0
+Villa Antinori Riserva,4398,43.437,13.5,750,40.0
+Coto Real Reserva,4398,43.437,13.5,750,37.0
+Bodegas Roda Sela,4399,43.447,13.5,750,39.0
+Cruor,4888,43.449,15.0,750,41.0
+Chateau de La Chaize Brouilly,3929,43.656,12.0,750,37.0
+Laurus Gigondas,4750,43.678,14.5,750,39.0
+Louis Latour Bourgogne Cuvee Latour,4099,43.723,12.5,750,36.0
+Emilio Moro,4599,43.8,14.0,750,41.0
+Vietti Langhe Nebbiolo Perbacco,4599,43.8,14.0,750,39.0
+Protos'27 Tinto,4599,43.8,14.0,750,39.0
+Athayde Grande Escolha rautt,4601,43.819,14.0,750,41.0
+Vina Cubillo Crianza,4444,43.891,13.5,750,40.0
+Garzon Tannat Reserva,4616,43.962,14.0,750,40.0
+Luis Canas Reserva Seleccion de la Familia,4790,44.046,14.5,750,42.0
+Villa Maria Reserve Pinot Noir,4625,44.048,14.0,750,39.0
+Joseph Drouhin Laforet Pinot Noir,4316,44.267,13.0,750,36.0
+Hubert Sandhofer Zweigelt Reserve,4322,44.328,13.0,750,
+l'esprit de Jean Voisin,4490,44.346,13.5,750,40.0
+Los Escribanos,4490,44.346,13.5,750,41.0
+Cubardi Primitivo,4990,44.356,15.0,750,43.0
+Rivetto Langhe Nebbiolo,4499,44.435,13.5,750,38.0
+Gratavinum 2 Priorat,4999,44.436,15.0,750,41.0
+Louis Latour Bourgogne Cuvee Latour & Louis Latour Bourgogne Chardonnay í öskju blandað 2x750 ml,8499,44.614,12.7,1500,36.0
+Boen Pinot Noir,4950,44.898,14.7,750,41.0
+Cillar de Silos Crianza,4890,44.966,14.5,750,39.0
+Conde Valdemar Gran Reserva,4728,45.029,14.0,750,40.0
+Chateau Timberlay Cuvee Marie Paule Prestige,4899,45.048,14.5,750,37.0
+Mademoiselle L,4399,45.118,13.0,750,38.0
+Vina Maria Luisa Red Wine,4571,45.146,13.5,750,
+Marques de Riscal Reserva,9500,45.238,14.0,1500,41.0
+Tenuta di Sticciano Cantastore Rosso,4584,45.274,13.5,750,41.0
+"Antieri susumaniello, Armentino negroamaro e primitivo & Cubardi primitivo blandað 3x750 ml í trékassa",14997,45.342,14.7,2250,39.0
+Callejon del Crimen Gran Reserva Malbec,4933,45.361,14.5,750,39.0
+Marques de Grinon Svmma Varietalis,5108,45.404,15.0,750,40.0
+Lammidia Rosh,4090,45.444,12.0,750,40.0
+Papari Valley Qvevri Terraces Saperavi Papari Valley,4950,45.517,14.5,750,43.0
+La Marchigiana Malbec Vino Natural,4790,45.619,14.0,750,40.0
+Swartland Bush Vine Syrah,4799,45.705,14.0,750,37.0
+Swartland Bush Vine Pinotage,4799,45.705,14.0,750,37.0
+Swartland Bush Vine Cabernet Sauvignon,4799,45.705,14.0,750,37.0
+Les Chapitres de Jaffelin Pinot Noir,4290,45.76,12.5,750,36.0
+Francois d'Allaines Bourgogne Pinot Noir,4299,45.856,12.5,750,37.0
+Chateau Jean Faux Rouge,4815,45.857,14.0,750,40.0
+Meerhof Shiraz Grenache Noir,4990,45.885,14.5,750,38.0
+2017 Selected Parcel Malbec 1853 Old Vine Estate Single Vineyards,4990,45.885,14.5,750,40.0
+Parajes de Callejo,4990,45.885,14.5,750,41.0
+Rioja Vega Gran Reserva,4820,45.905,14.0,750,39.0
+Syrocco Syrah,4650,45.926,13.5,750,38.0
+Muga Reserva,2499,45.959,14.5,375,42.0
+Les Tours de Laroque,4999,45.968,14.5,750,40.0
+Marques de Riscal XR Reserva,4999,45.968,14.5,750,43.0
+Prive Nerello Mascalese,5182,46.062,15.0,750,42.0
+La Crema Monterey Pinot Noir,4698,46.4,13.5,750,38.0
+Noble Hill Cabernet Sauvignon,4886,46.533,14.0,750,39.0
+Daou Cabernet Sauvignon,4888,46.552,14.0,750,41.0
+Zanotto Col Fondo Rosso Frizzante,4190,46.556,12.0,750,40.0
+Alto Rouge,4889,46.562,14.0,750,38.0
+Mm,4715,46.568,13.5,750,42.0
+Hubert Sandhofer Leithaberg DAC Rot Blaufrankisch,4715,46.568,13.5,750,
+El Enemigo Bonarda  El Mirador Single Vineyard,4715,46.568,13.5,750,42.0
+Noble Hill Estate Reserve,4912,46.781,14.0,750,40.0
+Lacerta Shiraz,5091,46.814,14.5,750,38.0
+Ottavio Vino Rosso,4390,46.827,12.5,750,38.0
+2019 Selected Parcel Malbec 1853 Old Vine Estate Single Vineyards,5200,46.847,14.8,750,40.0
+Tamaral Reserva,4925,46.905,14.0,750,41.0
+"M. Chapoutier Bila-Haut, Les Meysonniers",9499,46.909,13.5,1500,37.0
+Philippe le Hardi Pinot Noir Vielles Vignes,4590,47.077,13.0,750,38.0
+Casa Rojo Tinta Fina,5299,47.102,15.0,750,41.0
+Pacificus Syrah,5305,47.156,15.0,750,42.0
+Quona Riserva,5310,47.2,15.0,750,41.0
+4 Cento Cinquesegni,19843,47.245,14.0,3000,37.0
+Nativ Anniversary Aglianico,5138,47.246,14.5,750,42.0
+Papias Primitivo,5138,47.246,14.5,750,43.0
+La Cantina Delle 7 Donne Barolo,4990,47.524,14.0,750,36.0
+Le Volpi Ventiquattro mesi 24 Rosso,4990,47.524,14.0,750,41.0
+Marques de Murrieta Reserva,4992,47.543,14.0,750,41.0
+Kraljevski Plavac Mali,4997,47.59,14.0,750,38.0
+Colognole Riserva del Don,4997,47.59,14.0,750,39.0
+Umberto Cesari Liano Sangiovese Cabernet Sauvignon,4998,47.6,14.0,750,41.0
+Contino Reserva,4999,47.61,14.0,750,43.0
+Beronia Gran Reserva,4999,47.61,14.0,750,41.0
+Imperial Reserva,4999,47.61,14.0,750,42.0
+La Rioja Alta Vina Ardanza Reserva & Áster Crianza,9999,47.614,14.0,1500,43.0
+Postmark Napa Valley Cabernet Sauvignon,5180,47.632,14.5,750,
+Protos Reserva,5190,47.724,14.5,750,42.0
+Primitivo di Manduria Sessantanni Old Vines,5190,47.724,14.5,750,45.0
+Pintas Character Tinto,5191,47.733,14.5,750,42.0
+M. Chapoutier Les Meysonniers Crozes Hermitage,4499,47.989,12.5,750,38.0
+Valdecuriel Reserva,5399,47.991,15.0,750,42.0
+Chateau Teyssier Saint-Emilion Grand Cru,5226,48.055,14.5,750,38.0
+Viberti Barbera d'Alba Bricco Airoli,5423,48.204,15.0,750,39.0
+Brolio Riserva,5243,48.211,14.5,750,40.0
+Real Academia Nero d'Avola,5263,48.395,14.5,750,42.0
+Jean-Pierre Moueix Pomerol rautt,5475,48.667,15.0,750,39.0
+Luca Old Vine Malbec,4931,48.701,13.5,750,42.0
+Vina Ardanza Reserva,5299,48.726,14.5,750,43.0
+Alto de la Cruz Garnacha Sierra de Gredos,5491,48.809,15.0,750,34.0
+Carodorum Seleccion Especial,5491,48.809,15.0,750,42.0
+Flor de Taverners Monastrell y Tempranillo,5130,48.857,14.0,750,37.0
+Sommos Coleccion Merlot,5501,48.898,15.0,750,41.0
+Beronia Reserva Seleccion de 198 Barricas,5346,49.159,14.5,750,42.0
+8 Mesi I Vini Di Gi Cabernet,4990,49.284,13.5,750,35.0
+Domaine Delaporte Sancerre Silex Vin Rouge,4998,49.363,13.5,750,41.0
+Alphart Pinot Noir Reserve,4999,49.373,13.5,750,40.0
+Faustino I Gran Reserva,4999,49.373,13.5,750,41.0
+Gratavinum Silvestris,4999,49.373,13.5,750,40.0
+Perelada Finca la Garriga Samsó,5555,49.378,15.0,750,39.0
+Isole e Olena Chianti Classico,5390,49.563,14.5,750,40.0
+Nativ Eremo San Quirico,5392,49.582,14.5,750,42.0
+Albert Bichot Savigny Les Beaune Les Peuillets Premier Cru,2515,49.679,13.5,375,39.0
+Constantia Glen Three Estate Wine,5226,49.771,14.0,750,41.0
+Lezer Rosso,4490,49.889,12.0,750,
+Zotikos Rosso,5243,49.933,14.0,750,41.0
+Chateau d'Agassac,4899,50.246,13.0,750,38.0
+Marcelo Pelleriti Signature Malbec,5595,50.405,14.8,750,41.0
+Baron de Ley Siete Vinas Reserva,5299,50.467,14.0,750,41.0
+Ameri Malbec Gualtallary Single Vineyard,5499,50.566,14.5,750,44.0
+Finca Martelo Reserva,5499,50.566,14.5,750,41.0
+Mandrarossa Etna Rosso,4934,50.605,13.0,750,38.0
+Ca'della Scala Pianissimo Amarone Limited Edition,5698,50.649,15.0,750,43.0
+"Zanotto Col, Zanotto Nude, Bianco Vino Le Coste, Lezer Rosso, Alessandrino Rosso, Le fole Campania Kassi 2 - 6x750 ml blandað",27900,50.82,12.2,4500,40.0
+Banfi Aska Bolgheri,5346,50.914,14.0,750,39.0
+Greenwing Cabernet Sauvignon,5425,50.939,14.2,750,41.0
+Baricci Rosso di Montalcino,5546,50.998,14.5,750,40.0
+Ferdinando Principiano Langhe Nebbiolo,4990,51.179,13.0,750,37.0
+LC Lopez Cristobal Reserva,5191,51.269,13.5,750,41.0
+Tommasi Ripasso  Magnum í trékassa,9999,51.277,13.0,1500,39.0
+Stellenzicht Thunderstone Red,5390,51.333,14.0,750,41.0
+Enzo Bartoli,5199,51.348,13.5,750,40.0
+d.b schmitt Piros Merlot trocken,5199,51.348,13.5,750,
+Poggioargentiera Poggioraso Cabernet Franc,5787,51.44,15.0,750,41.0
+Matarromera Crianza,5599,51.485,14.5,750,41.0
+Vinyes Ocults Gran Malbec,5490,51.549,14.2,750,42.0
+Cigalus Rouge,5999,51.604,15.5,750,41.0
+Marques de Grinon Cabernet Sauvignon,5436,51.771,14.0,750,41.0
+Lacerta Cuvee IX,5624,52.074,14.4,750,41.0
+Calera Pinot Noir,5677,52.202,14.5,750,40.0
+Gelso d'Oro Nero di Troia,5490,52.286,14.0,750,44.0
+Dominio de Atauta,5690,52.322,14.5,750,41.0
+"Tommasi Amarone, Tommasi Ripasso, Tommasi Rafael blandað 3x750ml í trékassa",15899,52.342,13.5,2250,39.0
+Vallado Touriga Nacional,5499,52.371,14.0,750,41.0
+Feudi di San Gregorio Taurasi,5499,52.371,14.0,750,39.0
+Roda Reserva,5699,52.405,14.5,750,42.0
+Peter Lehmann 8 Songs Shiraz,5699,52.405,14.5,750,41.0
+Peter Lehmann Mentor Cabernet,5699,52.405,14.5,750,40.0
+Chateauneuf-du-Pape le Grand Roi,5699,52.405,14.5,750,39.0
+Postmark Paso Robles Cabernet Sauvignon,5709,52.497,14.5,750,40.0
+Truchard Pinot Noir,5555,52.53,14.1,750,40.0
+Chateau Haut Boutisse,5335,52.691,13.5,750,39.0
+Chateau Haut Chaigneau Magnum,11499,52.869,14.5,1500,40.0
+Valduero Cosecha Tierra Alta En 2 Maderas,5555,52.905,14.0,750,42.0
+Perelada Finca Malaveina,5555,52.905,14.0,750,42.0
+Matsu El Viejo,5986,53.209,15.0,750,43.0
+J.C. Boisset Bourgogne Pinot Noir Les Ursulines,4998,53.312,12.5,750,36.0
+Jackson Estate Outland Ridge Pinot Noir,5998,53.316,15.0,750,41.0
+Lamberti Amarone della Valpolicella,5999,53.324,15.0,750,39.0
+Kendall Jackson Grand Reserve Cabernet Sauvignon,5799,53.324,14.5,750,39.0
+La Crema Willamette Valley Pinot Noir,5799,53.324,14.5,750,40.0
+Louis M Martini Napa Valley Cabernet Sauvignon,5999,53.324,15.0,750,41.0
+La Pevera Rosso,5599,53.324,14.0,750,35.0
+Kraljevski Crljenak Zinfandel,5409,53.422,13.5,750,42.0
+Clos de Gat Har'el Merlot,5436,53.689,13.5,750,41.0
+Decoy Cabernet Sauvignon,5619,53.899,13.9,750,40.0
+Chateau Julia Agiorgitiko,5685,54.143,14.0,750,41.0
+Fattoria La Vialla Riserva Casa Conforto,5490,54.222,13.5,750,38.0
+Hubert Sandhofer Merlot Reserve,5501,54.331,13.5,750,
+Torres Purgatori,5964,54.841,14.5,750,42.0
+Jose Zuccardi Malbec,5979,54.979,14.5,750,43.0
+"Muga Reserva, Muga Seleccion Especial",11299,54.983,13.7,1500,42.0
+Altas Quintas Tinto,5990,55.08,14.5,750,41.0
+Livius Tempranillo Single Vineyard Reserva,5992,55.099,14.5,750,39.0
+Muga Seleccion Especial,5999,55.163,14.5,750,42.0
+Petit Cernin Rouge,5999,55.163,14.5,750,45.0
+Áster Finca El Otero,5999,55.163,14.5,750,42.0
+L'Arietta Merlot,5390,55.282,13.0,750,33.0
+Laurus Chateauneuf du Pape,6450,55.484,15.5,750,41.0
+Ruffino Riserva Ducale Oro Gran Selezione,6299,55.991,15.0,750,40.0
+Valduero I Una Cepa,5888,56.076,14.0,750,43.0
+Chateau Segur de Cabanac,5471,56.113,13.0,750,40.0
+Wassmann Kekfrankos,5497,56.379,13.0,750,37.0
+Zenato Amarone,6999,56.558,16.5,750,44.0
+Tommasi Amarone della Valpolicella Classico,6399,56.88,15.0,750,43.0
+Brunelli Amarone della Valpolicella Classico,6399,56.88,15.0,750,43.0
+Vina Ardanza Reserva,3099,56.993,14.5,375,43.0
+Le Volpi Dodici mesi 12 Merlot,5990,57.048,14.0,750,37.0
+San Polo Brunello di Montalcino,5990,57.048,14.0,750,42.0
+Chateau Jean Voisin,5995,57.095,14.0,750,41.0
+Clos de Gat Har'el Cabernet Sauvignon,5567,57.097,13.0,750,42.0
+Umberto Cesari Liano Sangiovese Cabernet Sauvignon,2998,57.105,14.0,375,41.0
+Chemin de Moscou Vin Rouge,5999,57.133,14.0,750,40.0
+Prunotto Barbaresco,5798,57.264,13.5,750,40.0
+J. Lohr Hilltop Cabernet Sauvignon,6490,57.689,15.0,750,41.0
+Chateau L'Hospitalet,6499,57.769,15.0,750,40.0
+Alto Cabernet Sauvignon Estate Wine,6290,57.839,14.5,750,37.0
+Klein Constantia Estate Red,6290,57.839,14.5,750,40.0
+Mauro Red Wine,6299,57.922,14.5,750,38.0
+Vina Bosconia Reserva,5888,58.153,13.5,750,41.0
+Talbott Pinot Noir Sleppy Hollow Vineyard,6199,58.207,14.2,750,40.0
+Chateau Trianon,6396,58.814,14.5,750,42.0
+Penfolds Bin 28 Kalimna Shiraz,6399,58.841,14.5,750,41.0
+Albert Bichot Savigny Les Beaune Les Peuillets Premier Cru,5767,59.149,13.0,750,39.0
+Castiglion del Bosco Rosso di Montalcino,5990,59.16,13.5,750,38.0
+Castiglion del Bosco 3x375 ml trékassi blandað,8990,59.193,13.5,1125,43.0
+Castiglion del Bosco 3x750 ml trékassi blandað,17990,59.226,13.5,2250,43.0
+Cloudy Bay Pinot Noir,5999,59.249,13.5,750,39.0
+Bodyguard,6666,59.253,15.0,750,42.0
+Orin Swift Cellars Abstract,6899,59.346,15.5,750,42.0
+Hubert Sandhofer Triu,6025,59.506,13.5,750,
+Beringer Knights Valley Cabernet Sauvignon,6699,59.547,15.0,750,41.0
+Glenwood Shiraz Vigneron's Selection,6484,59.623,14.5,750,37.0
+B Bagus,6489,59.669,14.5,750,
+Zorah Karasi Areni Noir,6267,59.686,14.0,750,43.0
+Vina Arana Gran Reserva,6499,59.761,14.5,750,43.0
+The Hess Collection Allomi Cabernet Sauvignon,6499,59.761,14.5,750,41.0
+Albert Bichot Santenay Premier Cru  Clos Rousseau,5848,59.979,13.0,750,41.0
+Vidal-Fleury Chateauneuf-du-Pape,6999,60.206,15.5,750,40.0
+Bolla Le Poiane Amarone,6788,60.338,15.0,750,42.0
+Ceci to you Lambrusco Rosso,4985,60.424,11.0,750,39.0
+HZ Abascal Vineyard,6811,60.542,15.0,750,38.0
+Gabriel Meffre Saint Joseph Rouge Saint Etienne,5449,60.544,12.0,750,39.0
+Marchese Antinori Chianti Classico Riserva,6398,60.933,14.0,750,42.0
+Constantia Glen Five,6667,61.306,14.5,750,43.0
+Chateauneuf du Pape Les Cedres,6899,61.324,15.0,750,41.0
+Valduero Reserva Tierra Alta De 2 Cotas,6444,61.371,14.0,750,43.0
+Angoris Refosco dal Peduncolo Rosso,5990,61.436,13.0,750,36.0
+Angoris Schioppettino,5990,61.436,13.0,750,37.0
+Pisoni San Siro Rosso,5995,61.487,13.0,750,37.0
+L'Abeille de Fieuzal,5999,61.528,13.0,750,40.0
+Emilio Moro Malleolus,6698,61.591,14.5,750,43.0
+Hacienda Zorita Magister,6484,61.752,14.0,750,43.0
+Fontodi Chianti Classico,6484,61.752,14.0,750,39.0
+Marques de Grinon Petit Verdot,6490,61.81,14.0,750,41.0
+Siduri Sonoma Coast Pinot Noir,6498,61.886,14.0,750,40.0
+Casisano Brunello di Montalcino,6499,61.895,14.0,750,41.0
+Imperial Reserva,25999,61.902,14.0,3000,42.0
+Jean Loron Chateauneuf du Pape,6745,62.023,14.5,750,41.0
+Amaren Reserva Tempranillo,6990,62.133,15.0,750,43.0
+il fauno di Arcanum,6999,62.213,15.0,750,42.0
+Alexander vs The Ham Factory,6999,62.213,15.0,750,41.0
+Farina Amarone della Valpolicella,6999,62.213,15.0,750,42.0
+Masi Costasera Amarone Classico,6999,62.213,15.0,750,43.0
+Tommasi Amarone,13999,62.218,15.0,1500,43.0
+Santi Amarone della Valpolicella,7499,62.492,16.0,750,42.0
+Belle Glos Pinot Noir Clark & Telephone,6990,62.55,14.9,750,44.0
+Rosso Vino Le Coste,5890,62.827,12.5,750,
+Ausas Interpretacion,7079,62.924,15.0,750,44.0
+Reserva Duas Quintas Tinto,6890,63.356,14.5,750,42.0
+Chateau Cartier,6890,63.356,14.5,750,38.0
+Two Hands Brave Faces Grenache Mourvedre Shiraz,6899,63.88,14.4,750,38.0
+BV Napa Valley Cabernet Sauvignon,7199,63.991,15.0,750,39.0
+La Spinetta Barbaresco Bordini,6968,64.074,14.5,750,41.0
+Chateau Cadet Soutard Saint-Emilion Grand Cru,6490,64.099,13.5,750,41.0
+Canvasback Cabernet Sauvignon,6994,64.313,14.5,750,42.0
+Nativ Bicento,6998,64.349,14.5,750,43.0
+Massolino Barolo,6999,64.359,14.5,750,41.0
+Gabriel Meffre Chateauneuf-du-Pape Saint-Theodoric,6999,64.359,14.5,750,40.0
+Clos de L'Oratoire Chateauneuf-de-Pape,6999,64.359,14.5,750,42.0
+Louis Latour Beaune,6299,64.605,13.0,750,41.0
+Villa al Cortile Brunello di Montalcino,6799,64.752,14.0,750,40.0
+E.Guigal Chateauneuf-du-Pape,7399,65.769,15.0,750,41.0
+Antinori Badia A Passignano Chianti Classico,7399,65.769,15.0,750,42.0
+Nativ Eremo Nero,7171,65.94,14.5,750,44.0
+Cillar de Silos Torre Silo,7190,66.115,14.5,750,42.0
+Fontanafredda Barolo Serralunga d'Alba,6955,66.238,14.0,750,40.0
+Smerenie Red wine dry,7214,66.336,14.5,750,
+Bulas Grande Reserva Tinto,6975,66.429,14.0,750,42.0
+Marques de Riscal Gran Reserva,6989,66.562,14.0,750,42.0
+Chateau Fleur de Lisse,6990,66.571,14.0,750,39.0
+Prima Pietra Rosso,6990,66.571,14.0,750,40.0
+Francisco Barona Tinto Fino Garnacha y Albillo,7492,66.596,15.0,750,44.0
+1884 The President's Blend,6994,66.61,14.0,750,43.0
+Rose Rock Drouhin Oregon Pinot Noir,6994,66.61,14.0,750,37.0
+Remelluri Reserva,6998,66.648,14.0,750,41.0
+Chateau Musar,6998,66.648,14.0,750,43.0
+Marques de la Concordia Rioja Santiago Vendimia Seleccionada í öskju,6998,66.648,14.0,750,37.0
+Patrizi Barolo,6998,66.648,14.0,750,39.0
+Louis Jadot Savigny Les Beaune La Dominode Premier Cru,6499,66.656,13.0,750,40.0
+Domaine des Senechaux,7799,67.088,15.5,750,42.0
+Chateau Cotes de Rol,6290,67.093,12.5,750,40.0
+Museum Numerus Clausus,7298,67.108,14.5,750,45.0
+Strada al Sasso Chianti Classico Gran Selezione,7399,68.037,14.5,750,43.0
+Brio de Cantenac Brown,6899,68.138,13.5,750,40.0
+Vina Tondonia Reserva,6666,68.369,13.0,750,42.0
+2018 Catena Alta Cabernet Sauvignon,7200,68.571,14.0,750,42.0
+Duckhorn Merlot Napa Valley,7479,68.772,14.5,750,42.0
+Castello di Querceto La Corte Gran Selezione,7230,68.857,14.0,750,
+Quinta do Crasto Tinta Roriz,7499,68.956,14.5,750,44.0
+2009 San Polo Brunello di Montalcino,6999,69.126,13.5,750,42.0
+Catena Alta Malbec,6999,69.126,13.5,750,43.0
+Marques de Elciego  Edicion Limitada,6999,69.126,13.5,750,43.0
+Marques de Arviza Seleccion Especial,7048,69.61,13.5,750,40.0
+Marques de Grinon Graciano,7590,69.793,14.5,750,41.0
+Banfi Brunello di Montalcino,7890,70.133,15.0,750,42.0
+Banfi Brunello di Montalcino,15850,70.444,15.0,1500,42.0
+Il Segno Red,7793,71.66,14.5,750,45.0
+Angoris Cabernet Sauvignon,6990,71.692,13.0,750,34.0
+Joseph Drouhin Cote de Beaune,6990,71.692,13.0,750,40.0
+Pian della Vigne,7799,71.715,14.5,750,43.0
+Tommasi Fiorato Recioto della Valpolicella,3499,71.774,13.0,375,41.0
+Chanson Beaune Bastion Rouge,6999,71.785,13.0,750,40.0
+Rivetto Barolo del Comune di Serralunga d'Alba,7899,72.634,14.5,750,43.0
+Peter Lehmann Stonewell Shiraz,7899,72.634,14.5,750,42.0
+Goldeneye Pinot Noir Anderson Valley,7793,73.174,14.2,750,43.0
+Iscay Malbec & Cabernet Franc,7990,73.471,14.5,750,42.0
+Kir-Yianni Diaporos,7990,73.471,14.5,750,37.0
+Nederburg Private Bin Two Centuries Cabernet Sauvignon,7999,73.554,14.5,750,44.0
+Chateau Laroque,7999,73.554,14.5,750,41.0
+La Crema Russian River Pinot Noir,7999,73.554,14.5,750,42.0
+2016 Torres Perpetual,7999,73.554,14.5,750,43.0
+Villa al Cortile Riserva Brunello di Montalcino,7999,73.554,14.5,750,41.0
+Diciotto primitivo,9954,73.733,18.0,750,45.0
+Gran Moraine Pinot Noir Yamhill Carlton,7499,74.064,13.5,750,42.0
+Beeslaar Pinotage,8055,74.069,14.5,750,44.0
+Stonestreet Cabernet Sauvignon Estate Vineyards,7999,76.181,14.0,750,42.0
+Chateau Labegorce,7999,76.181,14.0,750,40.0
+Flor de Silos Tempranillo,8290,76.23,14.5,750,
+Chateau de Pez,7721,76.257,13.5,750,40.0
+Vietti Barolo Castiglione,8299,76.313,14.5,750,42.0
+Freemark Abbey Cabernet Sauvignon,8299,76.313,14.5,750,43.0
+Baricci Brunello di Montalcino,8377,77.03,14.5,750,43.0
+Chateau Yon Figeac,8389,77.14,14.5,750,41.0
+Dominio del Pidio Tinto,8389,77.14,14.5,750,38.0
+Il Poggione Brunello di Montalcino,8390,77.149,14.5,750,42.0
+Duckhorn Decoy & Canvasback Cabernet Sauvignon,16451,77.235,14.2,1500,40.0
+Patz & Hall Pinot Noir,8990,77.333,15.5,750,42.0
+Masi Costasera Amarone,4399,78.204,15.0,375,43.0
+Marques de Murrieta Gran Reserva,8260,78.667,14.0,750,45.0
+La Vina de Amalio Tempranillo,8590,78.989,14.5,750,42.0
+La Sergue Pascal Chatonnet,7999,79.002,13.5,750,41.0
+Perla Nera Riserva Montepulciano d'Abruzzo,8689,79.899,14.5,750,
+Calera Ryan Pinot Noir,8909,80.261,14.8,750,41.0
+Chateau Carbonnieux,8765,80.598,14.5,750,41.0
+Regnard Aloxe Corton,7899,81.015,13.0,750,41.0
+Calera Mills Pinot Noir,9234,82.631,14.9,750,42.0
+Casalferro,8990,82.667,14.5,750,41.0
+Marques de Grinon Emeritus,9300,82.667,15.0,750,43.0
+Le Volpi Trentasei mesi 36 Merlot,8998,82.74,14.5,750,41.0
+Matarromera Reserva,8998,82.74,14.5,750,43.0
+Penfolds Bin 600 Cabernet Shiraz,8999,82.749,14.5,750,43.0
+Roda I Reserva,8699,82.848,14.0,750,44.0
+Castello Fonterutoli,8699,82.848,14.0,750,39.0
+Duckhorn Cabernet Sauvignon Napa Valley,9129,83.945,14.5,750,43.0
+Chateau Jean Voisin Magnum,18299,84.133,14.5,1500,41.0
+Ratti Marcenasco,8900,84.762,14.0,750,42.0
+Poesia Malbec Cabernet,9590,85.244,15.0,750,43.0
+Les Tourelles de Longueville,8698,85.906,13.5,750,41.0
+Banfi Poggio Alle Mura Brunello di Montalcino,9750,86.667,15.0,750,42.0
+Banfi Summus,9490,87.264,14.5,750,42.0
+Pintia,9888,87.893,15.0,750,44.0
+Lealtanza Reserva J.Sorolla,9299,88.562,14.0,750,40.0
+La Infanta by Mikaela Bobal,9992,88.818,15.0,750,43.0
+Chateau Pibran,8998,88.869,13.5,750,40.0
+Marimar Estate La Masia Pinot Noir,8999,88.879,13.5,750,41.0
+Beringer Quantum Red Wine,9999,88.88,15.0,750,43.0
+Castiglion del Bosco Brunello di Montalcino,9990,91.862,14.5,750,43.0
+Vina Pedrosa Gran Reserva,9999,91.945,14.5,750,43.0
+Lion Tamer Red Wine,9999,91.945,14.5,750,43.0
+Montes Alpha M,9999,91.945,14.5,750,43.0
+BV Rutherford Reserve Cabernet Sauvignon,9999,91.945,14.5,750,44.0
+La Sergue Pascal Chatonnet Magnum,19999,91.949,14.5,1500,41.0
+Foradori Granato,8990,92.205,13.0,750,41.0
+Gerard Bertrand Le Viala,10499,93.324,15.0,750,43.0
+Chateau du Domaine de l'Eglise,9801,93.343,14.0,750,42.0
+Ridge Estate Cabernet Sauvignon,9666,93.391,13.8,750,39.0
+Lamborghini Torami,9970,94.952,14.0,750,40.0
+Casisano Colombaiolo Brunello di Montalcino,9999,95.229,14.0,750,41.0
+Muga Prado Enea Gran Reserva,10499,96.543,14.5,750,44.0
+Quinta do Bronze Vinha do Plagao,10502,96.57,14.5,750,36.0
+Chryseia P+S,10599,97.462,14.5,750,41.0
+La Rioja Alta Gran Reserva 904 Seleccion Especial,10599,97.462,14.5,750,44.0
+II Sole di Alessandro Colli Della Toscana Centrale,9995,98.716,13.5,750,42.0
+Chateau Phelan Segur,9999,98.756,13.5,750,41.0
+Matarromera Prestigio,10740,98.759,14.5,750,44.0
+Tommasi Ca'Florian Amarone í trékassa,11499,98.916,15.5,750,40.0
+Viu 1,10478,99.79,14.0,750,43.0
+Aluvional Paraje Altamira Malbec,10959,100.772,14.5,750,40.0
+Torres Mas La Plana,10989,101.048,14.5,750,42.0
+Stag's Leap Artemis Cabernet Sauvignon,11450,101.778,15.0,750,44.0
+Macan,11111,102.17,14.5,750,44.0
+Albert Bichot Vosne-Romanee Domaine du Clos,10438,103.091,13.5,750,46.0
+la fleur Vivaltus,11290,103.816,14.5,750,42.0
+Louis Jadot Pommard Grands Epenots,10999,104.752,14.0,750,41.0
+Two Hands Lily's Garden McLaren Vale Shiraz,11490,105.655,14.5,750,42.0
+Valadorna,11499,105.738,14.5,750,43.0
+Penfolds Bin 704 Cabernet Sauvignon,11499,105.738,14.5,750,43.0
+Valduero 6 ára Reserva Premium,11111,105.819,14.0,750,44.0
+Purple Angel by Montes,11598,106.648,14.5,750,44.0
+Zuccardi Concreto Malbec,11327,107.876,14.0,750,40.0
+Matthiasson Cabernet Sauvignon,10979,108.435,13.5,750,43.0
+E.Guigal Cote-Rotie Brune et Blonde,11499,109.514,14.0,750,40.0
+Joseph Drouhin Gevrey-Chambertin Premier Cru,11114,109.768,13.5,750,44.0
+Robert Mondavi Oakville Cabernet Sauvignon,11999,110.336,14.5,750,42.0
+Chateau Pedesclaux,10989,112.708,13.0,750,41.0
+Alion,12888,114.56,15.0,750,45.0
+Torre Muga,12499,114.933,14.5,750,44.0
+Penfolds Bin 389 Cabernet Shiraz,12599,115.853,14.5,750,43.0
+Perpiero,12199,116.181,14.0,750,45.0
+Duckhorn Three Palms Vineyard Merlot,12640,116.23,14.5,750,44.0
+Albert Bichot Chateau Gris Monopole,12210,120.593,13.5,750,43.0
+Louis Jadot Nuits St. Georges Boudots,11999,123.067,13.0,750,42.0
+Chateau Labegorce,12989,123.705,14.0,750,40.0
+Lamborghini Campoleone Sangiovese Merlot,13380,127.429,14.0,750,37.0
+Chateau Batailley,12482,128.021,13.0,750,42.0
+Valduero Gran Reserva Tierra Alta de 2 Racimos,13456,128.152,14.0,750,45.0
+Arcanum,13939,128.175,14.5,750,35.0
+Bouchard Aine Pommard 1er Cru Les Charmots,12998,128.375,13.5,750,40.0
+Chateau Cantenac Brown,12998,128.375,13.5,750,42.0
+Montecillo Gran Reserva Seleccion Especial,13598,134.301,13.5,750,42.0
+Ratti Rocche Dell'Annunziata,14900,137.011,14.5,750,44.0
+Ratti Rocche Dell'Annunziata Magnum,29900,137.471,14.5,1500,44.0
+Orma,15490,137.689,15.0,750,43.0
+Chateau Branaire Ducru,14989,137.83,14.5,750,41.0
+Isole e Olena Cepparello,15690,139.467,15.0,750,43.0
+Ricasoli Historia,15234,140.083,14.5,750,44.0
+Caro,15490,142.437,14.5,750,43.0
+Pisoni Reboro Rosso Passito,16997,146.211,15.5,750,43.0
+Campo del Drago Brunello di Montalcino,15990,147.034,14.5,750,44.0
+2019 Nicolas Catena Zapata 2019,14999,148.138,13.5,750,45.0
+Paolo Scavino Bric del Fiasc,16999,151.102,15.0,750,43.0
+Piedra Infinita Malbec Paraje Altamira,16521,157.343,14.0,750,45.0
+Matarromera Gran Reserva,15699,157.383,13.3,750,43.0
+Testamatta Rosso,17490,160.828,14.5,750,38.0
+Two Hands Waterfall Block Shiraz Single Vineyard,16989,161.8,14.0,750,43.0
+2015 Nicolas Catena Zapata 2015,16989,161.8,14.0,750,45.0
+Acaibo Red Wine,16989,161.8,14.0,750,39.0
+Chateau Talbot,16666,164.602,13.5,750,42.0
+Chateau d'Issan,16666,164.602,13.5,750,42.0
+Flaccianello Della Pieve,18599,165.324,15.0,750,45.0
+Daou Soul of a Lion Cabernet Sauvignon,18666,165.92,15.0,750,46.0
+E.Guigal Chateau d'Ampuis,17999,171.419,14.0,750,43.0
+Joseph Drouhin Chambolle Musigny Premier Cru,17706,174.874,13.5,750,43.0
+Chateau Marquis de Terme,18490,176.095,14.0,750,41.0
+Giorgio Primo,19490,179.218,14.5,750,44.0
+Joseph Drouhin Clos des Mouches rautt,19045,181.381,14.0,750,43.0
+Pesquera Gran Reserva Millenium,19876,182.768,14.5,750,44.0
+Alenza Gran Reserva,19888,182.878,14.5,750,43.0
+Guado Al Tasso,19999,183.899,14.5,750,41.0
+Robert Mondavi The Reserve To Kalon Vineyard,19999,183.899,14.5,750,
+Santa Rita Casa Real Cabernet Sauvignon Reserva Especial,19790,188.476,14.0,750,44.0
+Vivaltus,19990,190.381,14.0,750,42.0
+Rivetto Barolo Briccolina,19999,190.467,14.0,750,40.0
+Tignanello,19999,190.467,14.0,750,45.0
+Nativ Segret I Collection,20779,191.071,14.5,750,45.0
+Nativ Segret I Collection,20779,191.071,14.5,750,45.0
+Marques de Grinon AAA,21690,192.8,15.0,750,45.0
+Joseph Drouhin Vosne Romanee Premier Cru,19560,193.185,13.5,750,42.0
+Vega Sicilia Valbuena 5°,21111,194.124,14.5,750,46.0
+Castiglion del Bosco Millecento 1100 Riserva,21990,195.467,15.0,750,46.0
+Cheval des Andes,21390,196.69,14.5,750,44.0
+Galatrona Petrolo Merlot,21490,197.609,14.5,750,43.0
+Louis Jadot Clos Vougeot,20999,215.374,13.0,750,43.0
+The Lion The Hess Collection Estate Grown,23499,216.083,14.5,750,44.0
+2019 Tua Rita Per Sempre,24534,218.08,15.0,750,45.0
+Vietti Barolo Lazzarito,22999,219.038,14.0,750,44.0
+Chateau Troplong Mondot,23990,220.598,14.5,750,43.0
+Two Hands Ares,23990,220.598,14.5,750,44.0
+Gerard Bertrand clos d'Ora,26999,232.249,15.5,750,38.0
+Beringer Private Reserve Cabernet Sauvignon,26999,232.249,15.5,750,44.0
+Castillo Ygay Gran Reserva Especial,25960,247.238,14.0,750,45.0
+Ridge Monte Bello,26789,260.72,13.7,750,45.0
+Querceto Romantic,26582,262.538,13.5,750,45.0
+Chateau Lynch Bages,26666,263.368,13.5,750,44.0
+Chateau Pape Clement,28990,266.575,14.5,750,44.0
+De Buris Amarone della Valpolicella Classico Riserva,31499,270.959,15.5,750,46.0
+Le Dome,29732,273.398,14.5,750,44.0
+Biondi Santi Tenuta Greppo Brunello,29700,282.857,14.0,750,45.0
+Chateau Giscours,27810,285.231,13.0,750,43.0
+Overture,29999,285.705,14.0,750,45.0
+Piedra Infinita Gravascal Malbec Paraje Altamira,30665,292.048,14.0,750,45.0
+Chateau Rauzan Segla,29990,296.198,13.5,750,43.0
+Heitz Cellar Martha's Vineyard Cabernet Sauvignon,32222,296.294,14.5,750,45.0
+Paul Hobbs Nathan Coombs Estate Christina's Signature,33488,297.671,15.0,750,
+Freemark Abbey Sycamore Vineyard,31998,298.35,14.3,750,43.0
+Chateau Valandraud,32900,302.529,14.5,750,44.0
+Freemark Abbey Cabernet Bosche,31998,302.582,14.1,750,44.0
+Piedra Infinita Supercal Malbec Paraje Altamira,32406,308.629,14.0,750,45.0
+2018 Tua Rita Redigaffi Merlot,33909,311.807,14.5,750,45.0
+Banfi Poggio All'Oro Riserva Brunello Montalcino,32960,313.905,14.0,750,45.0
+Quintessa,35989,330.933,14.5,750,46.0
+Chateau Montrose,33989,335.694,13.5,750,43.0
+Albert Bichot Chambertin Grand Cru,34724,342.953,13.5,750,44.0
+Chateau Pichon Baron Longueville,34990,345.58,13.5,750,41.0
+Chateau La Conseillante,34990,345.58,13.5,750,44.0
+Cobos Malbec,40990,364.356,15.0,750,39.0
+La Mondotte,39990,380.857,14.0,750,44.0
+Colore Rosso,39990,380.857,14.0,750,31.0
+Morlet Cabernet Sauvignon,44990,382.081,15.7,750,45.0
+Vieux Chateau Certan,45678,420.028,14.5,750,44.0
+Antinori Solaia,47999,426.658,15.0,750,46.0
+Chateau Palmer,43210,426.765,13.5,750,45.0
+E.Guigal La Turque,45999,438.086,14.0,750,46.0
+E.Guigal La Landonne,45999,438.086,14.0,750,46.0
+Chateau Cos D'Estournel,44444,438.953,13.5,750,45.0
+Chateau Leoville Las Cases,44444,438.953,13.5,750,44.0
+Vega Sicilia Unico,51111,486.771,14.0,750,47.0
+M. Chapoutier l'Ermite,67990,625.195,14.5,750,45.0
+Chateau Palmer,76623,704.579,14.5,750,45.0
+Stag's Leap Cask 23 Cabernet Sauvignon,81370,748.23,14.5,750,46.0
+Chateau Palmer,86185,792.506,14.5,750,45.0
+Biondi Santi Riserva Tenuta Greppo,86445,794.897,14.5,750,46.0
+Joseph Drouhin Chambertin Clos de Beze,85490,844.346,13.5,750,44.0
+2011 Chateau Haut Brion 2011,99999,987.644,13.5,750,46.0
+Chateau Mouton Rothschild,131839,1302.114,13.5,750,46.0
+2015 Chateau Haut Brion,151989,1351.013,15.0,750,46.0
+Chateau Mouton Rothschild,142139,1403.842,13.5,750,46.0
+Chateau Mouton Rothschild,149349,1531.785,13.0,750,46.0
+Chateau Mouton Rothschild,159649,1637.426,13.0,750,46.0
